@@ -1,0 +1,35 @@
+<style>
+
+  table {
+    width: 1280px;
+    height: 360px;
+    table-layout: auto;
+  }
+
+  td {
+    border: 1px solid black;
+  }
+
+  td.image {
+    width: 360px;
+    text-align: center;
+    vertical-align: middle;
+  }
+
+  td.content {
+    text-align: center;
+    vertical-align: middle;
+  }
+
+  svg {
+    background-color: rgb(10, 10, 10);
+  }
+
+</style>
+
+<table>
+  <tr>
+    <td class="image"><img src="./image.svg" /></td>
+    <td class="content">Content</td>
+  </tr>
+</table>
