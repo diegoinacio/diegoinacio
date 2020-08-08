@@ -1,7 +1,11 @@
+:root {
+  --table-width: 1280px;
+  --table-height: 360px;
+}
+
 table {
-  width: 1280px;
-  height: 360px;
-  table-layout: auto;
+  width: var(--table-width);
+  height: var(--table-height);
 }
 
 td {
@@ -9,16 +13,13 @@ td {
 }
 
 td.image {
-  width: 360px;
+  width: var(--table-height);
   text-align: center;
   vertical-align: middle;
 }
 
 td.content {
+  width: calc(var(--table-width) - var(--table-height));
   text-align: center;
   vertical-align: middle;
-}
-
-svg {
-  background-color: rgb(10, 10, 10);
 }
