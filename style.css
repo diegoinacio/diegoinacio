@@ -9,7 +9,7 @@ table {
 }
 
 td {
-  border: 1px solid black;
+  border: 0px solid black;
 }
 
 td.image {
@@ -20,6 +20,29 @@ td.image {
 
 td.content {
   width: calc(var(--table-width) - var(--table-height));
+}
+
+.personal-list {
+  vertical-align: top;
+  text-align: left;
+}
+
+.social-links {
   text-align: center;
+  background-color: lightgray;
+}
+
+.social-links img {
   vertical-align: middle;
+  margin: 2px;
+}
+
+.content-sign {
+  vertical-align: bottom;
+  text-align: center;
+}
+
+.personal-links {
+  color: rgb(0, 204, 68);
+  font-weight: 800;
 }
