@@ -1,12 +1,12 @@
 <img align="right" src="./image.svg" />
 
-## Hey there 👋🏾 welcome to my _Github_!
+## Hey there 👋🏾 welcome to my _GitHub_!
 
 - My name is <b>Diego da Costa Inácio</b> and I am a <u>computer scientist</u> from <em>Brazil</em>.
 - I have strong passion for everything related to <code>computer graphics</code> and <code>digital image processing</code>.
 - I am a big enthusiast of <code>mathematics</code> and <code>scientific computing</code> in general.
 - I usually code in <b>Python</b> or <b>JavaScript</b>, but I have no problems doing it with other languages or technologies.
-- I am really passionate about sharing knowledge and you can reach some on <a href="https://diegoinacio.github.io/blog/" style="color: rgb(0, 204, 68); font-weight: 800;">my personal blog</a>.
+- I am really passionate about sharing knowledge and you can reach some on <a href="https://diegoinacio.github.io/blog/" style="color: rgb(0, 204, 68)"><b>my personal blog</b></a>.
 
 <br />
 
@@ -29,4 +29,4 @@
 <br />
 <br />
 
-If you want to know more, visit my <a href="https://diegoinacio.github.io/" style="color: rgb(0, 204, 68); font-weight: 800;">my personal website</a>.
+If you want to know more, visit my <a href="https://diegoinacio.github.io/" style="color: rgb(0, 204, 68)"><b>my personal website</b></a>.
