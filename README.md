@@ -1,4 +1,4 @@
-<img align="right" src="./image.svg" />
+<img align="right" src="https://github.com/diegoinacio/diegoinacio/blob/master/image.svg" />
 
 ## Hey there 👋🏾 welcome to my _GitHub_!
 
