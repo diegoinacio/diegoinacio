@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg id="image" width="360px" height="480px" xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg id="image" width="360px" height="480px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
   <defs>
     <!-- ! Gradients -->
@@ -11,207 +10,106 @@
       <stop offset="100%" style="stop-color:rgb(20,40,60);stop-opacity:1" />
     </linearGradient>
     <!-- ! Symbols -->
-    <symbol id="star-shape01">
-      <polygon
-        points="5.00,6.00 7.94,9.05 5.95,5.31 9.76,3.45 5.59,4.19 5.00,0.00 4.41,4.19 0.24,3.45 4.05,5.31 2.06,9.05 ">
-        <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 5 5" to="360 5 5"
-          dur="10s" repeatCount="indefinite" />
-      </polygon>
-    </symbol>
+    <!-- ! Patterns -->
   </defs>
 
+  <!-- ! Background gradient -->
   <rect id="BG" width="100%" height="100%" fill="url(#BG-grad)" />
 
-  <g id="star-group01">
-    <g transform="translate(40.71 156.39) scale(1.45 1.45)">
-      <use xlink:href="#star-shape01" fill="hsl(205.2282918047663, 50%, 70%)">
-      </use>
-    </g>
-    <g transform="translate(343.02 211.66) scale(0.78 0.78)">
-      <use xlink:href="#star-shape01" fill="hsl(2.709001163267466, 50%, 70%)">
-      </use>
-    </g>
-    <g transform="translate(88.77 398.32) scale(1.20 1.20)">
-      <use xlink:href="#star-shape01" fill="hsl(-1.5229476531812303, 50%, 70%)">
-      </use>
-    </g>
-    <g transform="translate(318.01 54.09) scale(1.44 1.44)">
-      <use xlink:href="#star-shape01" fill="hsl(226.1427948340694, 50%, 70%)">
-      </use>
-    </g>
-    <g transform="translate(130.63 255.65) scale(1.31 1.31)">
-      <use xlink:href="#star-shape01" fill="hsl(201.07158899557243, 50%, 70%)">
-      </use>
-    </g>
-  </g>
-
-  <g id="star-group02">
-    <circle cx="45.71" r="1" fill="white">
-      <animate attributeName="cy" values="0;480" dur="50s" begin="-11.44s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-3.72s"
-        repeatCount="indefinite" />
+  <!-- ! Falling stars 01 -->
+  <g id="falling-stars01">
+    <circle cx="45.71" r="1.45" fill="hsl(205.23, 50%, 70%)">
+      <animate attributeName="cy" values="-9.54;489.54" dur="4.31s" begin="-0.99s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="5s" begin="-2.13s" repeatCount="indefinite" />
     </circle>
-    <circle cx="348.02" r="1" fill="white">
-      <animate attributeName="cy" values="0;480" dur="50s" begin="-38.84s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-1.27s"
-        repeatCount="indefinite" />
+    <circle cx="348.02" r="1.47" fill="hsl(226.13, 50%, 70%)">
+      <animate attributeName="cy" values="-179.74;659.74" dur="3.61s" begin="-2.81s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="5s" begin="-2.99s" repeatCount="indefinite" />
     </circle>
-    <circle cx="93.77" r="1" fill="white">
-      <animate attributeName="cy" values="0;480" dur="50s" begin="-29.74s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-0.74s"
-        repeatCount="indefinite" />
+    <circle cx="93.77" r="1.47" fill="hsl(211.66, 50%, 70%)">
+      <animate attributeName="cy" values="-95.70;575.70" dur="4.23s" begin="-2.52s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="5s" begin="-2.51s" repeatCount="indefinite" />
     </circle>
-    <circle cx="323.01" r="1" fill="white">
-      <animate attributeName="cy" values="0;480" dur="50s" begin="-6.88s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-0.82s"
-        repeatCount="indefinite" />
+    <circle cx="323.01" r="1.43" fill="hsl(238.59, 50%, 70%)">
+      <animate attributeName="cy" values="-173.68;653.68" dur="3.57s" begin="-0.49s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="5s" begin="-2.87s" repeatCount="indefinite" />
     </circle>
-    <circle cx="135.63" r="1" fill="white">
-      <animate attributeName="cy" values="0;480" dur="50s" begin="-42.64s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-2.27s"
-        repeatCount="indefinite" />
+    <circle cx="135.63" r="1.10" fill="hsl(7.64, 50%, 70%)">
+      <animate attributeName="cy" values="-31.04;511.04" dur="4.33s" begin="-3.69s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="5s" begin="-1.27s" repeatCount="indefinite" />
     </circle>
-    <circle cx="121.04" r="1" fill="white">
-      <animate attributeName="cy" values="0;480" dur="50s" begin="-11.78s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-2.38s"
-        repeatCount="indefinite" />
+    <circle cx="121.04" r="1.30" fill="hsl(206.84, 50%, 70%)">
+      <animate attributeName="cy" values="-6.44;486.44" dur="4.20s" begin="-0.99s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="5s" begin="-3.61s" repeatCount="indefinite" />
     </circle>
-    <circle cx="162.50" r="1" fill="white">
-      <animate attributeName="cy" values="0;480" dur="50s" begin="-7.31s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-3.86s"
-        repeatCount="indefinite" />
+    <circle cx="162.50" r="0.77" fill="hsl(233.28, 50%, 70%)">
+      <animate attributeName="cy" values="-218.39;698.39" dur="4.90s" begin="-0.72s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="5s" begin="-2.62s" repeatCount="indefinite" />
     </circle>
-    <circle cx="302.49" r="1" fill="white">
-      <animate attributeName="cy" values="0;480" dur="50s" begin="-29.49s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-2.61s"
-        repeatCount="indefinite" />
+    <circle cx="302.49" r="1.36" fill="hsl(12.73, 50%, 70%)">
+      <animate attributeName="cy" values="-120.05;600.05" dur="4.24s" begin="-2.50s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="5s" begin="-0.38s" repeatCount="indefinite" />
     </circle>
-    <circle cx="44.32" r="1" fill="white">
-      <animate attributeName="cy" values="0;480" dur="50s" begin="-28.70s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-3.00s"
-        repeatCount="indefinite" />
+    <circle cx="44.32" r="0.91" fill="hsl(225.55, 50%, 70%)">
+      <animate attributeName="cy" values="-182.23;662.23" dur="3.23s" begin="-1.85s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="5s" begin="-2.77s" repeatCount="indefinite" />
     </circle>
-    <circle cx="195.49" r="1" fill="white">
-      <animate attributeName="cy" values="0;480" dur="50s" begin="-3.06s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-2.61s"
-        repeatCount="indefinite" />
+    <circle cx="195.49" r="1.43" fill="hsl(206.71, 50%, 70%)">
+      <animate attributeName="cy" values="-184.52;664.52" dur="4.71s" begin="-0.29s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="5s" begin="-2.44s" repeatCount="indefinite" />
     </circle>
-    <circle cx="134.28" r="1" fill="white">
-      <animate attributeName="cy" values="0;480" dur="50s" begin="-29.52s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-2.99s"
-        repeatCount="indefinite" />
+    <circle cx="134.28" r="0.86" fill="hsl(9.52, 50%, 70%)">
+      <animate attributeName="cy" values="-90.18;570.18" dur="2.97s" begin="-1.76s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="5s" begin="-0.06s" repeatCount="indefinite" />
     </circle>
-    <circle cx="161.28" r="1" fill="white">
-      <animate attributeName="cy" values="0;480" dur="50s" begin="-12.27s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-3.85s"
-        repeatCount="indefinite" />
+    <circle cx="161.28" r="0.94" fill="hsl(2.74, 50%, 70%)">
+      <animate attributeName="cy" values="-45.08;525.08" dur="1.50s" begin="-0.37s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="5s" begin="-2.75s" repeatCount="indefinite" />
     </circle>
-    <circle cx="46.60" r="1" fill="white">
-      <animate attributeName="cy" values="0;480" dur="50s" begin="-17.02s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-0.03s"
-        repeatCount="indefinite" />
+    <circle cx="46.60" r="1.35" fill="hsl(8.24, 50%, 70%)">
+      <animate attributeName="cy" values="-228.42;708.42" dur="4.71s" begin="-1.60s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="5s" begin="-1.64s" repeatCount="indefinite" />
     </circle>
-    <circle cx="309.56" r="1" fill="white">
-      <animate attributeName="cy" values="0;480" dur="50s" begin="-49.24s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-0.43s"
-        repeatCount="indefinite" />
+    <circle cx="309.56" r="1.00" fill="hsl(228.57, 50%, 70%)">
+      <animate attributeName="cy" values="-120.94;600.94" dur="1.90s" begin="-1.87s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="5s" begin="-0.98s" repeatCount="indefinite" />
     </circle>
-    <circle cx="295.34" r="1" fill="white">
-      <animate attributeName="cy" values="0;480" dur="50s" begin="-45.98s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-1.19s"
-        repeatCount="indefinite" />
+    <circle cx="295.34" r="1.34" fill="hsl(217.76, 50%, 70%)">
+      <animate attributeName="cy" values="-180.21;660.21" dur="3.63s" begin="-3.34s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="5s" begin="-1.44s" repeatCount="indefinite" />
     </circle>
-    <circle cx="126.74" r="1" fill="white">
-      <animate attributeName="cy" values="0;480" dur="50s" begin="-1.89s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-2.63s"
-        repeatCount="indefinite" />
+    <circle cx="126.74" r="1.03" fill="hsl(-5.30, 50%, 70%)">
+      <animate attributeName="cy" values="-119.68;599.68" dur="1.91s" begin="-0.07s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="5s" begin="-1.41s" repeatCount="indefinite" />
     </circle>
   </g>
 
-  <g id="star-group03">
-    <circle cx="45.71" r="1.93" fill="white">
-      <animate attributeName="cy" values="0;480" dur="20s" begin="-2.46s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-1.27s"
-        repeatCount="indefinite" />
-    </circle>
-    <circle cx="348.02" r="1.18" fill="white">
-      <animate attributeName="cy" values="0;480" dur="20s" begin="-10.86s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-0.82s"
-        repeatCount="indefinite" />
-    </circle>
-    <circle cx="93.77" r="1.57" fill="white">
-      <animate attributeName="cy" values="0;480" dur="20s" begin="-7.46s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-2.38s"
-        repeatCount="indefinite" />
-    </circle>
-    <circle cx="323.01" r="1.96" fill="white">
-      <animate attributeName="cy" values="0;480" dur="20s" begin="-8.96s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-2.61s"
-        repeatCount="indefinite" />
-    </circle>
-    <circle cx="135.63" r="1.75" fill="white">
-      <animate attributeName="cy" values="0;480" dur="20s" begin="-2.59s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-2.61s"
-        repeatCount="indefinite" />
-    </circle>
-    <circle cx="121.04" r="1.75" fill="white">
-      <animate attributeName="cy" values="0;480" dur="20s" begin="-17.20s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-3.85s"
-        repeatCount="indefinite" />
-    </circle>
-    <circle cx="162.50" r="1.01" fill="white">
-      <animate attributeName="cy" values="0;480" dur="20s" begin="-16.41s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-0.43s"
-        repeatCount="indefinite" />
-    </circle>
-    <circle cx="302.49" r="1.30" fill="white">
-      <animate attributeName="cy" values="0;480" dur="20s" begin="-7.04s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-2.63s"
-        repeatCount="indefinite" />
-    </circle>
-  </g>
-
-  <g id="star-group04">
-    <circle cx="334.66" r="2.43" fill="white">
-      <animate attributeName="cy" values="0;480" dur="10s" begin="-7.49s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-1.27s"
-        repeatCount="indefinite" />
-    </circle>
-    <circle cx="113.90" r="1.68" fill="white">
-      <animate attributeName="cy" values="0;480" dur="10s" begin="-6.54s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-0.82s"
-        repeatCount="indefinite" />
-    </circle>
-    <circle cx="66.21" r="2.07" fill="white">
-      <animate attributeName="cy" values="0;480" dur="10s" begin="-7.48s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-2.38s"
-        repeatCount="indefinite" />
-    </circle>
-    <circle cx="73.64" r="2.46" fill="white">
-      <animate attributeName="cy" values="0;480" dur="10s" begin="-9.61s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-2.61s"
-        repeatCount="indefinite" />
-    </circle>
-    <circle cx="204.38" r="2.25" fill="white">
-      <animate attributeName="cy" values="0;480" dur="10s" begin="-0.08s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-2.61s"
-        repeatCount="indefinite" />
-    </circle>
-    <circle cx="214.40" r="2.25" fill="white">
-      <animate attributeName="cy" values="0;480" dur="10s" begin="-1.06s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-3.85s"
-        repeatCount="indefinite" />
-    </circle>
-    <circle cx="347.23" r="1.51" fill="white">
-      <animate attributeName="cy" values="0;480" dur="10s" begin="-2.99s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-0.43s"
-        repeatCount="indefinite" />
-    </circle>
-    <circle cx="235.14" r="1.80" fill="white">
-      <animate attributeName="cy" values="0;480" dur="10s" begin="-6.56s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.5;0.75;0.25;0.75;0.5;1" dur="4s" begin="-2.63s"
-        repeatCount="indefinite" />
-    </circle>
+  <!-- ! Falling stars 02 -->
+  <g id="falling-stars02" opacity="0.5">
+    <line x1="45.71" y1="32.31" x2="45.71" y2="382.89" stroke-opacity="0.70" stroke="white" stroke-dasharray="350.58,1752.89" stroke-width="1">
+      <animate attributeName="stroke-dashoffset" values="0;-2103.47" dur="2.26s" begin="-0.16s" repeatCount="indefinite" />
+    </line>
+    <line x1="348.02" y1="74.30" x2="348.02" y2="437.68" stroke-opacity="0.53" stroke="white" stroke-dasharray="363.38,1816.88" stroke-width="1">
+      <animate attributeName="stroke-dashoffset" values="0;-2180.25" dur="3.19s" begin="-3.86s" repeatCount="indefinite" />
+    </line>
+    <line x1="93.77" y1="57.30" x2="93.77" y2="419.48" stroke-opacity="0.71" stroke="white" stroke-dasharray="362.18,2173.06" stroke-width="1">
+      <animate attributeName="stroke-dashoffset" values="0;-2535.24" dur="2.75s" begin="-0.62s" repeatCount="indefinite" />
+    </line>
+    <line x1="323.01" y1="64.80" x2="323.01" y2="373.76" stroke-opacity="0.73" stroke="white" stroke-dasharray="308.96,1544.78" stroke-width="1">
+      <animate attributeName="stroke-dashoffset" values="0;-1853.73" dur="2.02s" begin="-0.43s" repeatCount="indefinite" />
+    </line>
+    <line x1="135.63" y1="32.94" x2="135.63" y2="445.29" stroke-opacity="0.65" stroke="white" stroke-dasharray="412.35,2061.73" stroke-width="1">
+      <animate attributeName="stroke-dashoffset" values="0;-2474.08" dur="3.25s" begin="-3.63s" repeatCount="indefinite" />
+    </line>
+    <line x1="121.04" y1="105.99" x2="121.04" y2="383.55" stroke-opacity="0.73" stroke="white" stroke-dasharray="277.56,1665.38" stroke-width="1">
+      <animate attributeName="stroke-dashoffset" values="0;-1942.94" dur="3.45s" begin="-2.57s" repeatCount="indefinite" />
+    </line>
+    <line x1="162.50" y1="102.04" x2="162.50" y2="374.62" stroke-opacity="0.72" stroke="white" stroke-dasharray="272.58,817.75" stroke-width="1">
+      <animate attributeName="stroke-dashoffset" values="0;-1090.34" dur="2.73s" begin="-2.76s" repeatCount="indefinite" />
+    </line>
+    <line x1="302.49" y1="55.21" x2="302.49" y2="418.99" stroke-opacity="0.61" stroke="white" stroke-dasharray="363.78,2182.69" stroke-width="1">
+      <animate attributeName="stroke-dashoffset" values="0;-2546.47" dur="3.99s" begin="-2.71s" repeatCount="indefinite" />
+    </line>
   </g>
 
 </svg>
