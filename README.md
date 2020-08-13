@@ -2,11 +2,12 @@
 
 ## Hey there 👋🏾 welcome to my _GitHub_!
 
-- My name is <b>Diego da Costa Inácio</b> and I am a <u>computer scientist</u> from <em>Brazil</em>.
+- My name is <strong>Diego da Costa Inácio</strong> and I am a <ins>computer scientist</ins> from <em>Brazil</em>.
 - I have strong passion for everything related to <code>computer graphics</code> and <code>digital image processing</code>.
 - I am a big enthusiast of <code>mathematics</code> and <code>scientific computing</code> in general.
-- I usually code in <b>Python</b> or <b>JavaScript</b>, but I have no problems doing it with other languages or technologies.
-- I am really passionate about sharing knowledge and you can reach some on <a href="https://diegoinacio.github.io/blog/" style="color: rgb(0, 204, 68)"><b>my personal blog</b></a>.
+- From the last years, I have been working mainly with <ins>computer vision</ins> and <ins>machine learning</ins>.
+- I usually code in <strong>Python</strong> or <strong>JavaScript</strong>, but I have no problems doing it with other languages or technologies.
+- I am really passionate about sharing knowledge and you can reach some on <a href="https://diegoinacio.github.io/blog/" style="color: rgb(0, 204, 68)"><strong>my personal blog</strong></a>.
 
 <br />
 
@@ -29,4 +30,4 @@
 <br />
 <br />
 
-If you want to know more, visit my <a href="https://diegoinacio.github.io/" style="color: rgb(0, 204, 68)"><b>my personal website</b></a>.
+If you want to know more, visit my <a href="https://diegoinacio.github.io/" style="color: rgb(0, 204, 68)"><strong>my personal website</strong></a>.
