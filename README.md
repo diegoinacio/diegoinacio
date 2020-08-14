@@ -6,7 +6,7 @@
 - I have strong passion for everything related to <code>computer graphics</code> and <code>digital image processing</code>.
 - I am a big enthusiast of <code>mathematics</code> and <code>scientific computing</code> in general.
 - From the last years, I have been working mainly with <ins>computer vision</ins> and <ins>machine learning</ins>.
-- I usually code in <strong>Python</strong> or <strong>JavaScript</strong>, but I have no problems doing it with other languages or technologies.
+- I usually code in <strong>Python</strong> or <strong>JavaScript</strong>, but I have no problem doing that in other languages or technologies.
 - I am really passionate about sharing knowledge and you can reach some on <a href="https://diegoinacio.github.io/blog/" style="color: rgb(0, 204, 68)"><strong>my personal blog</strong></a>.
 
 <br />
