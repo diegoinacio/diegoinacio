@@ -2,14 +2,13 @@
 
 ## Hey there 👋🏾 welcome to my _GitHub_!
 
-- My name is <strong>Diego da Costa Inácio</strong> and I am a <ins>computer scientist</ins> from <em>Brazil</em>.
-- I have strong passion for everything related to <code>computer graphics</code> and <code>digital image processing</code>.
-- I am a big enthusiast of <code>mathematics</code> and <code>scientific computing</code> in general.
-- From the last years, I have been working mainly with <ins>computer vision</ins> and <ins>machine learning</ins>.
-- I usually code in <strong>Python</strong> or <strong>JavaScript</strong>, but I have no problem doing that in other languages or technologies.
-- I am really passionate about sharing knowledge and you can reach some on <a href="https://diegoinacio.github.io/blog/" style="color: rgb(0, 204, 68)"><strong>my personal blog</strong></a>.
+- I am a multidisciplinary <ins>computer scientist</ins> and <ins>mathematics enthusiast</ins> from <strong>Brazil</strong>;
+- I am currently acting as a <code>data science</code> <em>generalist</em> and <em>indie</em> <code>computer programmer</code>, coding mainly in <strong>Python</strong> and <strong>JavaScript</strong>;
+- I usually get involved in projects related to <ins>Artificial Intelligence</ins>, <ins>Machine Learning</ins> and <ins>Computer Vision</ins>;
+- I have strong passion for anything connected to <code>computer graphics</code> or <code>digital image processing</code>;
+- My <strong>2021</strong> goals: Contribute more to <em>open source projects</em> and produce more <em>educational content</em>;
 
-<br />
+<br>
 
 <a href="https://github.com/diegoinacio/">
   <img alt="GitHub" title="GitHub" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -27,7 +26,6 @@
   <img alt="Medium" title="Medium" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
-<br />
-<br />
+<br>
 
-If you want to know more, visit my <a href="https://diegoinacio.github.io/" style="color: rgb(0, 204, 68)"><strong>my personal website</strong></a>.
+If you want to know more, visit my [my personal website](https://diegoinacio.github.io/).
