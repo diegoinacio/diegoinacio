@@ -11,19 +11,19 @@
 <br>
 
 <a href="https://github.com/diegoinacio/">
-  <img alt="GitHub" title="GitHub" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img alt="diegoinacio @ GitHub" title="diegoinacio @ GitHub" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="background-color: #FF6138" />
 </a>
 <a href="https://www.linkedin.com/in/diegoinacio/">
-  <img alt="LinkedIn" title="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img alt="diegoinacio @ LinkedIn" title="diegoinacio @ LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="background-color: #FFFF9D" />
+</a>
+<a href="https://diegoinacio.medium.com/">
+  <img alt="diegoinacio @ Medium" title="diegoinacio @ Medium" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" style="background-color: #BEEB9F" />
 </a>
 <a href="https://www.youtube.com/user/diegodci/">
-  <img alt="YouTube" title="YouTube" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img alt="diegodci @ YouTube" title="diegodci @ YouTube" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="background-color: #79BD8F" />
 </a>
 <a href="https://www.reddit.com/user/diecosina/">
-  <img alt="Reddit" title="Reddit" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<a href="https://www.medium.com/@diegodci/">
-  <img alt="Medium" title="Medium" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img alt="diecosina @ Reddit" title="diecosina @ Reddit" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" style="background-color: #00A388" />
 </a>
 
 <br>
