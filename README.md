@@ -28,4 +28,4 @@
 
 <br>
 
-If you want to know more, consider visiting my [my personal website](https://diegoinacio.github.io/).
+If you want to know more, consider visiting [my personal website](https://diegoinacio.github.io/).
