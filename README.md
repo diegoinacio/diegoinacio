@@ -26,6 +26,6 @@
   <img alt="diecosina @ Reddit" title="diecosina @ Reddit" src="https://img.icons8.com/dusk/50/26e07f/reddit.png"/>
 </a>
 
-<br><br>
+<br>
 
 If you want to know more, consider visiting [my personal website](https://diegoinacio.github.io/).
