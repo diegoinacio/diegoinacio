@@ -2,10 +2,10 @@
 
 ## Hey there 👋🏾 welcome to my _GitHub_!
 
-- I am a multidisciplinary <ins>Computer Scientist</ins> and <ins>Mathematics Enthusiast</ins> from <strong>Brazil</strong>;
-- I am currently acting as a <code>Data Scientist <em>[generalist]</em></code> and <code><em>Indie</em> Computer Programmer</code>, coding mainly in <strong>Python</strong> and <strong>JavaScript</strong>;
-- I usually get involved in projects associated to <ins>Data Analytics</ins>, <ins>Machine Intelligence</ins>, <ins>Open Source</ins> and <ins>Education</ins>;
-- I have strong passion for everything related to <code>digital image processing</code> and <code>computer graphics</code>;
+- I am a <em>multidisciplinary</em> <strong>computer scientist</strong> with focus on <code><strong>Data Science</strong> and <strong>Analytics</strong></code>;
+- I have strong passion for <ins>Mathematics</ins> and its <em>computational applications</em>;
+- In my projects, I consider my main coding languages being <strong>Python</strong>, <strong>JavaScript</strong> and <strong>SQL</strong>;
+- I like to talk about <em>AI</em>, <em>Machine Learning</em>, <em>Image Processing</em>, <em>Computer Graphics</em> and other things;
 - My <strong>2021</strong> goals: Contribute more to <em>open source projects</em> and produce more <em>educational content</em>.
 
 <br>
