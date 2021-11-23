@@ -1,8 +1,6 @@
 <img align="right" src="https://github.com/diegoinacio/diegoinacio/blob/master/image.svg" />
 
-<div style="font-size: 1.5em">
-  <span style="font-weight: bold;">Hi there</span> 👋🏾
-</div>
+<h2>Hi there 👋🏾</h2>
 <h3>..welcome to my <em>GitHub</em>!</h3>
 
 - I am a <em>multidisciplinary</em> <strong>computer scientist</strong> with focus on <code><strong>Data Science</strong> and <strong>Analytics</strong></code>;
