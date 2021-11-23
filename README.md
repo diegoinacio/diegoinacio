@@ -1,7 +1,6 @@
 <img align="right" src="https://github.com/diegoinacio/diegoinacio/blob/master/image.svg" />
 
-<h2>Hi there 👋🏾</h2>
-<h3>..welcome to my <em>GitHub</em>!</h3>
+## Hi there 👋🏾 welcome to my _GitHub_!
 
 - I am a <em>multidisciplinary</em> <strong>computer scientist</strong> with focus on <code><strong>Data Science</strong> and <strong>Analytics</strong></code>;
 - I have strong passion for <ins>Mathematics</ins> and its <em>computational applications</em>;
