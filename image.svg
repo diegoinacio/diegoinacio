@@ -1,880 +1,447 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg height="600px" viewBox="0 0 2000 600" width="2000px" xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg height="480px" width="360px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <style>
-      #BG rect {
-        fill: hsl(0, 0%, 98%);
+      .cls-1 {
+        font-size: 38.72px;
       }
 
-      #BG text {
-        font-family: 'Courier New', Courier, monospace;
+      .cls-1,
+      .cls-10,
+      .cls-11,
+      .cls-12,
+      .cls-13,
+      .cls-16,
+      .cls-19,
+      .cls-2,
+      .cls-20,
+      .cls-21,
+      .cls-22,
+      .cls-26,
+      .cls-3,
+      .cls-4,
+      .cls-5,
+      .cls-7,
+      .cls-8,
+      .cls-9 {
+        fill: #231f20;
+        font-family: Impact;
       }
 
-      #TEXT {
-        font-family: Corbel;
-        font-size: 48px;
+      .cls-2 {
+        font-size: 36.39px;
       }
 
-      #TEXT .phrase-1 {
-        font-weight: 700;
+      .cls-3 {
+        font-size: 27.22px;
       }
 
-      #TEXT .phrase-2 {
-        font-weight: 300;
+      .cls-4 {
+        font-size: 55.1px;
       }
 
-      #GRAPHICS #BR {
-        fill: url(#linear-gradient-1);
+      .cls-5 {
+        font-size: 45.25px;
       }
 
-      #GRAPHICS #CHART {
-        fill: url(#linear-gradient-2);
+      .cls-6 {
+        letter-spacing: -0.04em;
       }
 
-      #LINE {
-        stroke-width: 4px;
+      .cls-7 {
+        font-size: 61.32px;
+      }
+
+      .cls-8 {
+        font-size: 38.9px;
+      }
+
+      .cls-9 {
+        font-size: 29.52px;
+      }
+
+      .cls-10 {
+        font-size: 36.65px;
+      }
+
+      .cls-11 {
+        font-size: 48.21px;
+      }
+
+      .cls-12 {
+        font-size: 50.19px;
+      }
+
+      .cls-13 {
+        font-size: 35.57px;
+      }
+
+      .cls-14 {
+        letter-spacing: -0.06em;
+      }
+
+      .cls-15 {
+        letter-spacing: 0em;
+      }
+
+      .cls-16 {
+        font-size: 77.15px;
+      }
+
+      .cls-17 {
+        letter-spacing: -0.06em;
+      }
+
+      .cls-18 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-19 {
+        font-size: 47.15px;
+      }
+
+      .cls-20 {
+        font-size: 36.17px;
+      }
+
+      .cls-21 {
+        font-size: 49.91px;
+      }
+
+      .cls-22 {
+        font-size: 85.02px;
+      }
+
+      .cls-23 {
+        letter-spacing: -0.06em;
+      }
+
+      .cls-24 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-25 {
+        letter-spacing: 0em;
+      }
+
+      .cls-26 {
+        font-size: 59.03px;
+      }
+
+      .cls-27 {
+        letter-spacing: -0.06em;
+      }
+
+      .cls-28 {
+        letter-spacing: -0.06em;
+      }
+
+      .word>* {
+        fill: none;
+        stroke-width: 1px;
         stroke-linecap: round;
-        mix-blend-mode: difference;
-        opacity: 0.9;
+        mix-blend-mode: overlay;
       }
     </style>
-    <linearGradient id="linear-gradient-1" x1="0" x2="1" y1="0" y2="0">
-      <stop offset="0.1" stop-color="#fde800" />
-      <stop offset="0.9" stop-color="#45b764" />
-    </linearGradient>
-    <linearGradient id="linear-gradient-2" x1="0" x2="0" y1="0" y2="1">
-      <stop offset="0" stop-color="#0af" />
-      <stop offset="1" stop-color="#8300ff" />
-    </linearGradient>
-    <symbol id="LINE">
-      <line x1="1360" x2="2000" y1="400" y2="400" />
-    </symbol>
+    <g data-name="word cloud" id="word_cloud">
+      <symbol class="word" data-name="computer graphics" id="computer_graphics">
+        <text class="cls-1" id="graphics" transform="translate(0 348.9)">
+          GRAPHICS
+        </text>
+        <text class="cls-2" transform="translate(0 310.26)">
+          COMPUTER
+        </text>
+      </symbol>
+      <symbol class="word" data-name="digital image processing" id="digital_image_processing">
+        <text class="cls-3" transform="translate(187.35 214.73) scale(1.05 1)">
+          PROCESSING
+        </text>
+        <text class="cls-4" transform="translate(187.35 187.76) scale(1.05 1)">
+          IMAGE
+        </text>
+        <text class="cls-5" transform="translate(187.35 136.31) scale(1.05 1)">
+          DIGI
+          <tspan class="cls-6" x="76.03" y="0">
+            T
+          </tspan>
+          <tspan x="95.08" y="0">
+            AL
+          </tspan>
+        </text>
+      </symbol>
+      <symbol class="word" data-name="computer vision" id="computer_vision">
+        <text class="cls-7" transform="translate(2.81 216.95) scale(1.11 1)">
+          VISION
+        </text>
+        <text class="cls-8" transform="translate(1.03 161.61) scale(1.11 1)">
+          COMPUTER
+        </text>
+      </symbol>
+      <symbol class="word" data-name="artificial intelligence" id="artificial_intelligence">
+        <text class="cls-9" transform="translate(162.67 338.04) scale(1.08 1)">
+          INTELLIGENCE
+        </text>
+        <text class="cls-10" transform="translate(162.64 305.09) scale(1.07 1)">
+          ARTIFICIAL
+        </text>
+      </symbol>
+      <symbol class="word" data-name="machine learning" id="machine_learning">
+        <text class="cls-11" transform="translate(0 442.43) scale(0.99 1)">
+          LEARNING
+        </text>
+        <text class="cls-12" transform="translate(0 398.83) scale(0.99 1)">
+          MACHINE
+        </text>
+      </symbol>
+      <symbol class="word" data-name="data analytics" id="data_analytics">
+        <text class="cls-13" transform="translate(182 446.02)">
+          ANA
+          <tspan class="cls-14" x="55.38" y="0">
+            L
+          </tspan>
+          <tspan class="cls-15" x="66.6" y="0">
+            YTICS
+          </tspan>
+        </text>
+        <text class="cls-16" transform="translate(178.84 410.32)">
+          D
+          <tspan class="cls-17" x="42.64" y="0">
+            A
+          </tspan>
+          <tspan class="cls-18" x="77.56" y="0">
+            T
+          </tspan>
+          <tspan x="110.03" y="0">
+            A
+          </tspan>
+        </text>
+      </symbol>
+      <symbol class="word" data-name="computer science" id="computer_science">
+        <text class="cls-19" transform="translate(172.39 93.99)">
+          SCIENCE
+        </text>
+        <text class="cls-20" transform="translate(172.38 42.62)">
+          COMPUTER
+        </text>
+      </symbol>
+      <symbol class="word" data-name="data science" id="data_science">
+        <text class="cls-21" transform="translate(1.93 121.77)">
+          SCIENCE
+        </text>
+        <text class="cls-22" transform="translate(0.08 76.12)">
+          D
+          <tspan class="cls-23" x="46.99" y="0">
+            A
+          </tspan>
+          <tspan class="cls-24" x="85.48" y="0">
+            T
+          </tspan>
+          <tspan class="cls-25" x="121.26" y="0">
+            A
+          </tspan>
+        </text>
+      </symbol>
+      <symbol class="word" id="mathematics">
+        <text class="cls-26" transform="translate(0.01 269.72)">
+          M
+          <tspan class="cls-27" x="42.31" y="0">
+            A
+          </tspan>
+          <tspan x="69.03" y="0">
+            THEM
+          </tspan>
+          <tspan class="cls-28" x="195.86" y="0">
+            A
+          </tspan>
+          <tspan x="222.58" y="0">
+            TICS
+          </tspan>
+        </text>
+      </symbol>
+    </g>
   </defs>
-  <g id="BG">
-    <rect height="600" width="2000" />
-    <text>
-      <tspan style="font-size: 15px; fill: hsl(0,0%,85%);" time="1263" x="834.044009405148" y="432.19469606529486">
-        5
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,79%);" time="778" x="0.22874963468977327" y="181.39954357910386">
-        4
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,91%);" time="998" x="293.5117816342261" y="55.40315686127868">
-        3
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,89%);" time="1076" x="372.5204227553418" y="207.33643622582863">
-        5
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,91%);" time="1467" x="793.5349484613399" y="323.29004040201414">
-        6
-      </tspan>
-      <tspan style="font-size: 13px; fill: hsl(0,0%,92%);" time="658" x="838.3890288065896" y="411.1317002380557">
-        1
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,79%);" time="751" x="408.9044994630349" y="526.8704618345672">
-        0
-      </tspan>
-      <tspan style="font-size: 15px; fill: hsl(0,0%,76%);" time="1103" x="54.77518639585233" y="402.28050610704133">
-        1
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,89%);" time="277" x="834.6096047342539" y="335.213897067451">
-        5
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,87%);" time="1730" x="280.77387719046754" y="118.86089345092728">
-        5
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,93%);" time="962" x="1601.4891373510734" y="580.9569454316385">
-        3
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,84%);" time="1067" x="626.8483563184857" y="415.3935694015884">
-        9
-      </tspan>
-      <tspan style="font-size: 13px; fill: hsl(0,0%,76%);" time="1716" x="1752.7783045920767" y="536.7639981023084">
-        9
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,75%);" time="1879" x="170.08842273955582" y="23.432869939729418">
-        8
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,81%);" time="633" x="339.6608391291378" y="526.8855020576478">
-        2
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,81%);" time="649" x="196.6936676661002" y="252.6645750030313">
-        0
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,94%);" time="1800" x="1915.779060301004" y="319.8991709838102">
-        5
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,76%);" time="289" x="1383.7542279009467" y="189.30937860363775">
-        6
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,87%);" time="218" x="1373.0018553631674" y="500.77540313842377">
-        8
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,94%);" time="1519" x="36.57655468838361" y="450.08658896698046">
-        2
-      </tspan>
-      <tspan style="font-size: 15px; fill: hsl(0,0%,90%);" time="1517" x="1977.7221778129895" y="448.89939262790364">
-        6
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,79%);" time="554" x="560.8879841288103" y="473.5675970708931">
-        3
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,76%);" time="232" x="206.45201315528405" y="268.7361157055431">
-        5
-      </tspan>
-      <tspan style="font-size: 15px; fill: hsl(0,0%,91%);" time="1274" x="1817.191006186191" y="176.1684890242077">
-        2
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,75%);" time="1011" x="575.5506771726975" y="78.0171432709666">
-        9
-      </tspan>
-      <tspan style="font-size: 13px; fill: hsl(0,0%,76%);" time="1833" x="38.73391574059415" y="407.3013197639346">
-        6
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,93%);" time="889" x="423.2562320001181" y="159.32799562333574">
-        1
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,82%);" time="965" x="983.1463185606766" y="32.01752707024823">
-        5
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,89%);" time="372" x="1148.2352109840263" y="88.03714494348608">
-        9
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,88%);" time="711" x="1178.6110738065686" y="419.8550160125587">
-        7
-      </tspan>
-      <tspan style="font-size: 15px; fill: hsl(0,0%,94%);" time="1411" x="204.6688576556517" y="248.43359269174098">
-        5
-      </tspan>
-      <tspan style="font-size: 13px; fill: hsl(0,0%,75%);" time="1639" x="1388.8003154554901" y="248.5075617161416">
-        1
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,89%);" time="1457" x="99.90691789217432" y="321.53784354930696">
-        4
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,94%);" time="611" x="1327.5892904395776" y="308.93346723498513">
-        8
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,83%);" time="1556" x="1889.1895119816268" y="351.93302430119576">
-        1
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,83%);" time="645" x="1806.803830575767" y="82.48482248774252">
-        7
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,93%);" time="1434" x="278.55269450151707" y="484.4347732257143">
-        5
-      </tspan>
-      <tspan style="font-size: 15px; fill: hsl(0,0%,85%);" time="1014" x="795.3536739710671" y="99.21251827015966">
-        5
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,84%);" time="1109" x="1855.017160792068" y="208.65951584730394">
-        2
-      </tspan>
-      <tspan style="font-size: 15px; fill: hsl(0,0%,88%);" time="679" x="1501.624206272311" y="435.59879121027086">
-        4
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,89%);" time="1591" x="1766.6121824116196" y="374.2033242333653">
-        8
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,83%);" time="1502" x="1501.8848680546744" y="209.33900518670552">
-        2
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,76%);" time="272" x="539.8557835300521" y="537.5317309176401">
-        3
-      </tspan>
-      <tspan style="font-size: 15px; fill: hsl(0,0%,91%);" time="1951" x="856.1823797425898" y="578.9040282890313">
-        0
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,85%);" time="1519" x="1326.882995636896" y="373.0174321254731">
-        3
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,86%);" time="765" x="229.49194590675037" y="569.6935552242427">
-        2
-      </tspan>
-      <tspan style="font-size: 13px; fill: hsl(0,0%,76%);" time="899" x="899.824266959881" y="347.0337686322791">
-        2
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,80%);" time="1250" x="816.2736055225623" y="142.21618814581663">
-        3
-      </tspan>
-      <tspan style="font-size: 15px; fill: hsl(0,0%,86%);" time="587" x="1806.7590411245076" y="344.2076920033715">
-        6
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,88%);" time="1283" x="5.74065406231794" y="370.28694817243434">
-        8
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,83%);" time="1262" x="653.2898035441923" y="316.23486135456557">
-        4
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,87%);" time="1041" x="1771.884198621549" y="214.36185600149986">
-        5
-      </tspan>
-      <tspan style="font-size: 15px; fill: hsl(0,0%,82%);" time="1459" x="1817.0703018395984" y="374.0160694750816">
-        2
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,89%);" time="659" x="31.642485693112565" y="557.6623402462568">
-        2
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,75%);" time="1773" x="1381.793835033848" y="598.3937102708883">
-        9
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,90%);" time="649" x="344.6810166906571" y="82.28144977732666">
-        4
-      </tspan>
-      <tspan style="font-size: 13px; fill: hsl(0,0%,77%);" time="545" x="1865.190926074327" y="418.0908968939401">
-        3
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,92%);" time="1997" x="132.00034544412497" y="453.27783156147984">
-        1
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,89%);" time="1231" x="1507.7523769224927" y="553.81472132789">
-        1
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,75%);" time="1743" x="1423.0495172569435" y="74.56257718329881">
-        7
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,78%);" time="243" x="39.76026767959118" y="15.726592126631566">
-        2
-      </tspan>
-      <tspan style="font-size: 15px; fill: hsl(0,0%,83%);" time="1485" x="56.612976041589214" y="147.72664056182754">
-        2
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,84%);" time="1450" x="1720.055897365776" y="323.2986386049917">
-        3
-      </tspan>
-      <tspan style="font-size: 13px; fill: hsl(0,0%,80%);" time="1697" x="1105.6439573715318" y="505.2185354157634">
-        6
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,86%);" time="339" x="248.34663023982228" y="167.5102074066837">
-        9
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,93%);" time="432" x="1171.5185429165758" y="581.7574489918047">
-        3
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,94%);" time="1349" x="1122.06043851142" y="11.188373623765813">
-        9
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,93%);" time="816" x="1601.2653453612327" y="139.78456430461225">
-        8
-      </tspan>
-      <tspan style="font-size: 15px; fill: hsl(0,0%,75%);" time="314" x="1614.2103912375583" y="232.71638643850306">
-        6
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,94%);" time="210" x="1727.0837091188573" y="448.2729856423108">
-        4
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,82%);" time="1358" x="1112.4804679808378" y="81.87313539641102">
-        3
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,87%);" time="1553" x="119.83537902442332" y="72.8060734444424">
-        1
-      </tspan>
-      <tspan style="font-size: 13px; fill: hsl(0,0%,85%);" time="1870" x="89.10375708952346" y="64.49647746365574">
-        9
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,83%);" time="637" x="451.4186772157094" y="427.793388229606">
-        7
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,85%);" time="221" x="1119.433964108285" y="7.533588095469512">
-        3
-      </tspan>
-      <tspan style="font-size: 13px; fill: hsl(0,0%,89%);" time="220" x="143.94855937897356" y="580.3657980001632">
-        5
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,85%);" time="1162" x="1136.2009238398844" y="121.97594079659429">
-        4
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,91%);" time="1301" x="504.65148914064685" y="446.29551244505575">
-        3
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,85%);" time="285" x="390.8589622186376" y="348.81535636395466">
-        2
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,85%);" time="1214" x="1940.0399781766246" y="508.09728089402114">
-        2
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,75%);" time="917" x="479.6955182951723" y="296.26182856123796">
-        2
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,86%);" time="380" x="1239.9114367627594" y="497.38853973010725">
-        3
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,79%);" time="693" x="313.5827892921685" y="11.145721306445711">
-        9
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,78%);" time="1805" x="140.04428743844466" y="291.80706656221906">
-        2
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,75%);" time="449" x="1212.6589233066607" y="341.3108622518888">
-        8
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,76%);" time="1189" x="634.7248186443215" y="593.1696926474693">
-        4
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,76%);" time="702" x="1159.4904384915937" y="228.08470357413023">
-        9
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,89%);" time="1031" x="1101.8964382357935" y="447.2006585439012">
-        4
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,94%);" time="356" x="1338.4657869063692" y="158.95173459768563">
-        8
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,94%);" time="716" x="132.66966885688313" y="222.0505187484638">
-        4
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,81%);" time="1819" x="1259.435014043129" y="126.10440594890375">
-        0
-      </tspan>
-      <tspan style="font-size: 15px; fill: hsl(0,0%,79%);" time="274" x="1505.5111074776278" y="39.921888812468964">
-        6
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,79%);" time="385" x="520.630197157082" y="482.8527382460073">
-        3
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,81%);" time="1114" x="386.86856524665546" y="383.6765285279641">
-        9
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,91%);" time="882" x="1049.3406182474673" y="554.8847822396104">
-        1
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,75%);" time="1166" x="526.5935409742219" y="39.57665441041427">
-        0
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,75%);" time="866" x="1470.1319265773388" y="463.30681772594806">
-        2
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,76%);" time="557" x="1815.6317050070481" y="559.1832415181024">
-        8
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,93%);" time="942" x="27.90314595119403" y="140.61725167285232">
-        5
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,93%);" time="1215" x="1233.5567140033152" y="569.4097924125699">
-        6
-      </tspan>
-      <tspan style="font-size: 15px; fill: hsl(0,0%,79%);" time="1933" x="1900.3522384941593" y="333.9919129170938">
-        7
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,94%);" time="959" x="1831.212699532549" y="384.9397253678025">
-        4
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,88%);" time="1586" x="780.0154282824925" y="291.59440025814587">
-        8
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,92%);" time="1640" x="1208.6209658399464" y="329.7287529051375">
-        8
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,89%);" time="1292" x="1852.3628534129073" y="551.2400613801636">
-        2
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,82%);" time="1957" x="789.7512258471098" y="577.9575170644271">
-        7
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,88%);" time="595" x="347.9113333609287" y="75.7977116637824">
-        8
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,90%);" time="1473" x="270.15831609346264" y="303.397299406138">
-        4
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,88%);" time="1230" x="43.049610548395954" y="568.7821267306086">
-        2
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,85%);" time="1612" x="1654.230942341465" y="9.011388445273427">
-        3
-      </tspan>
-      <tspan style="font-size: 13px; fill: hsl(0,0%,93%);" time="558" x="352.3925111501105" y="199.2381446201022">
-        9
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,91%);" time="348" x="261.99368962183377" y="485.69441527594927">
-        7
-      </tspan>
-      <tspan style="font-size: 15px; fill: hsl(0,0%,78%);" time="911" x="689.4733053665869" y="564.0644894000203">
-        6
-      </tspan>
-      <tspan style="font-size: 13px; fill: hsl(0,0%,75%);" time="1274" x="1164.02835989416" y="527.2991906471065">
-        9
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,78%);" time="1210" x="1689.4688907844438" y="543.2353912251896">
-        5
-      </tspan>
-      <tspan style="font-size: 15px; fill: hsl(0,0%,76%);" time="655" x="919.7605316336139" y="327.80808961222397">
-        9
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,82%);" time="233" x="1597.2071823040787" y="171.43131104048854">
-        7
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,78%);" time="1669" x="980.5070452398554" y="359.46618458752704">
-        7
-      </tspan>
-      <tspan style="font-size: 13px; fill: hsl(0,0%,84%);" time="1251" x="31.066551101671447" y="356.0888449179823">
-        3
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,82%);" time="1068" x="867.3526979789166" y="484.41631733090486">
-        9
-      </tspan>
-      <tspan style="font-size: 15px; fill: hsl(0,0%,89%);" time="833" x="630.4896061907459" y="535.7332251150908">
-        5
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,75%);" time="859" x="1155.714430569071" y="110.40612097647904">
-        3
-      </tspan>
-      <tspan style="font-size: 13px; fill: hsl(0,0%,76%);" time="944" x="1575.8584676510086" y="367.21870622696036">
-        5
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,90%);" time="1626" x="107.81854414750592" y="252.11620800067934">
-        3
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,78%);" time="1319" x="1358.1376731308592" y="551.1610667865156">
-        7
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,85%);" time="1010" x="0.8040497827148663" y="586.0554894186358">
-        8
-      </tspan>
-      <tspan style="font-size: 15px; fill: hsl(0,0%,87%);" time="794" x="753.1606294915489" y="584.2701230149935">
-        7
-      </tspan>
-      <tspan style="font-size: 15px; fill: hsl(0,0%,83%);" time="1541" x="1209.432201948106" y="497.30748478841576">
-        7
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,77%);" time="451" x="1149.4230094162046" y="376.8457189844102">
-        3
-      </tspan>
-      <tspan style="font-size: 15px; fill: hsl(0,0%,91%);" time="1074" x="571.1525633913878" y="352.1000043936498">
-        4
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,90%);" time="1504" x="1500.0435274053198" y="514.9883018574254">
-        9
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,77%);" time="437" x="1510.1643769353602" y="418.8343490683818">
-        7
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,78%);" time="700" x="1728.9588601091996" y="193.60859810204786">
-        0
-      </tspan>
-      <tspan style="font-size: 15px; fill: hsl(0,0%,90%);" time="674" x="1341.5775815751745" y="270.5243618480095">
-        7
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,92%);" time="1532" x="764.2055040630345" y="246.48680995331137">
-        8
-      </tspan>
-      <tspan style="font-size: 15px; fill: hsl(0,0%,78%);" time="1297" x="802.9591669390812" y="190.43036757496614">
-        4
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,87%);" time="609" x="1243.8387358406028" y="258.1483624927586">
-        0
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,77%);" time="339" x="1947.6041558545046" y="406.68053486058665">
-        8
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,86%);" time="1988" x="397.13977685422174" y="256.02060560881966">
-        9
-      </tspan>
-      <tspan style="font-size: 15px; fill: hsl(0,0%,88%);" time="1087" x="686.692479548846" y="478.58328237513996">
-        8
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,81%);" time="1047" x="1759.9965771268635" y="542.3051734958232">
-        9
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,89%);" time="1024" x="1325.4396247505244" y="162.12495721785467">
-        2
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,81%);" time="1188" x="504.7334030091795" y="512.9387656184414">
-        4
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,84%);" time="1714" x="1055.4292926174933" y="481.2966504027588">
-        3
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,90%);" time="375" x="1144.9770343832126" y="439.88551517250664">
-        6
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,85%);" time="1869" x="1038.0232549281116" y="462.5303463011328">
-        4
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,88%);" time="1538" x="1137.7159814094312" y="279.4259271551885">
-        4
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,94%);" time="1799" x="685.3778159065636" y="40.92560905002247">
-        9
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,93%);" time="1856" x="755.8483586561997" y="47.77564661895142">
-        7
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,89%);" time="1166" x="1965.63422746089" y="108.96771079845826">
-        4
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,80%);" time="1676" x="1623.7173954410796" y="524.9769869735388">
-        7
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,82%);" time="1290" x="1376.8265047718867" y="341.6966476472254">
-        8
-      </tspan>
-      <tspan style="font-size: 15px; fill: hsl(0,0%,92%);" time="1823" x="321.94287363121754" y="280.1280136579838">
-        1
-      </tspan>
-      <tspan style="font-size: 13px; fill: hsl(0,0%,90%);" time="1753" x="690.34410231043" y="135.02397468845075">
-        8
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,86%);" time="1043" x="1185.0237375315935" y="187.36190262115016">
-        2
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,75%);" time="1570" x="1832.6111069367014" y="545.7813149709342">
-        3
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,94%);" time="255" x="514.2365875643924" y="66.53478044641751">
-        7
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,78%);" time="359" x="385.9254640382257" y="299.7505024073316">
-        7
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,80%);" time="1023" x="1457.1713359491926" y="124.91666304527489">
-        2
-      </tspan>
-      <tspan style="font-size: 15px; fill: hsl(0,0%,85%);" time="1623" x="496.0671167544615" y="511.00312496182016">
-        5
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,76%);" time="915" x="831.6974365350546" y="370.0110402931417">
-        2
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,88%);" time="1033" x="467.33227847850014" y="61.18035565547846">
-        4
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,81%);" time="1372" x="1031.7140339370596" y="286.2845922298694">
-        1
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,89%);" time="771" x="305.3432881863265" y="373.0837390442493">
-        0
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,76%);" time="508" x="1088.0202376278762" y="392.4824081824466">
-        0
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,88%);" time="1333" x="289.09108024931965" y="450.9166902811463">
-        2
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,85%);" time="1269" x="444.0982795998454" y="311.6110946196198">
-        8
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,82%);" time="1067" x="1570.5920564432379" y="13.398256795083707">
-        1
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,75%);" time="461" x="648.724919452373" y="523.7534258400666">
-        7
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,85%);" time="476" x="1689.4192152041392" y="323.06435555672624">
-        8
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,93%);" time="1316" x="1733.216548333026" y="569.8835948121759">
-        1
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,90%);" time="1753" x="1652.8139952586826" y="512.4692663019232">
-        7
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,82%);" time="1160" x="197.4868036406967" y="390.78259940459463">
-        7
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,94%);" time="332" x="1407.033976305306" y="366.1444875879778">
-        0
-      </tspan>
-      <tspan style="font-size: 13px; fill: hsl(0,0%,79%);" time="486" x="1599.2305234720561" y="20.74273192298055">
-        4
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,79%);" time="1578" x="1540.4774691099599" y="439.0371604437162">
-        2
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,87%);" time="1131" x="519.3967865967062" y="154.241579293288">
-        0
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,94%);" time="1229" x="1264.6066348602556" y="207.17847695464891">
-        1
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,84%);" time="1767" x="1593.177356014575" y="267.68773920207434">
-        3
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,81%);" time="851" x="1565.4988295683438" y="594.2830701743044">
-        7
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,91%);" time="1152" x="600.4966790678002" y="85.80349695485963">
-        0
-      </tspan>
-      <tspan style="font-size: 13px; fill: hsl(0,0%,83%);" time="1888" x="1802.6168726985477" y="324.93562733242396">
-        3
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,92%);" time="986" x="1949.4807417101645" y="381.9626400011383">
-        7
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,82%);" time="919" x="1987.8260492209579" y="327.642482485771">
-        3
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,78%);" time="1275" x="1052.8518678110427" y="81.25674184330194">
-        3
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,77%);" time="1160" x="711.4103419677622" y="15.731140377823971">
-        3
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,75%);" time="1543" x="320.7903590392982" y="447.38231562449766">
-        4
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,88%);" time="1564" x="60.79937985757766" y="219.9258583462466">
-        6
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,89%);" time="1972" x="1724.6925056760883" y="415.6066305044126">
-        8
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,91%);" time="398" x="1381.8842841323371" y="113.18208057318652">
-        6
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,88%);" time="1953" x="883.8085614968468" y="348.9464444065747">
-        3
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,82%);" time="982" x="1979.5034153274105" y="122.3437351398731">
-        1
-      </tspan>
-      <tspan style="font-size: 13px; fill: hsl(0,0%,91%);" time="822" x="495.4658035247097" y="157.30385026374717">
-        3
-      </tspan>
-      <tspan style="font-size: 15px; fill: hsl(0,0%,76%);" time="1905" x="1500.3448265959855" y="274.18519646141567">
-        3
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,94%);" time="234" x="113.85887682218998" y="305.10974436614373">
-        6
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,78%);" time="1541" x="423.92032928735193" y="479.16254685612614">
-        7
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,78%);" time="523" x="594.6627630145445" y="16.563607172702177">
-        8
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,75%);" time="374" x="1186.8648989292421" y="506.3042573587133">
-        9
-      </tspan>
-      <tspan style="font-size: 13px; fill: hsl(0,0%,78%);" time="1282" x="762.0322481244284" y="449.91498643568605">
-        0
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,89%);" time="790" x="1022.2829565942563" y="324.5710829773132">
-        8
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,90%);" time="483" x="1918.8686421235047" y="482.3765348991881">
-        7
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,85%);" time="726" x="64.64613324714796" y="425.63235073877706">
-        3
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,89%);" time="1490" x="930.0029631270121" y="568.5293648370599">
-        3
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,90%);" time="1217" x="442.86546864697664" y="160.24321181061947">
-        9
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,80%);" time="1457" x="162.94792975452398" y="257.17129719827193">
-        4
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,91%);" time="741" x="218.0375280381366" y="380.2720563671507">
-        6
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,89%);" time="704" x="1605.9264747474758" y="418.08029767210706">
-        6
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,79%);" time="1032" x="1532.4227621515408" y="205.47247190611188">
-        4
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,80%);" time="273" x="1691.7029660553553" y="257.2612649996655">
-        2
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,93%);" time="1259" x="1648.0197408246374" y="375.89769517457626">
-        6
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,90%);" time="239" x="286.84609734048985" y="47.03213991296877">
-        2
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,78%);" time="1065" x="36.66528582601458" y="40.03499858361388">
-        2
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,94%);" time="833" x="917.1676274168636" y="68.00515366055429">
-        2
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,85%);" time="580" x="55.566697697339904" y="452.9168888342804">
-        2
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,92%);" time="1529" x="789.7009609212788" y="448.16309736451507">
-        5
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,83%);" time="508" x="904.8096534929031" y="270.0520482004567">
-        7
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,90%);" time="379" x="956.1450134356619" y="284.40235593731643">
-        0
-      </tspan>
-      <tspan style="font-size: 13px; fill: hsl(0,0%,83%);" time="634" x="1606.3266842283392" y="241.4355119146415">
-        9
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,91%);" time="599" x="1809.372320687246" y="22.23662877242152">
-        0
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,84%);" time="1662" x="1547.7486854408373" y="75.38482868264329">
-        7
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,75%);" time="704" x="1237.027133824171" y="6.218556801139163">
-        0
-      </tspan>
-      <tspan style="font-size: 13px; fill: hsl(0,0%,93%);" time="1176" x="1077.2545651526939" y="1.8107739717578175">
-        8
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,76%);" time="1681" x="1902.387570980409" y="543.2412202216668">
-        5
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,87%);" time="616" x="1591.9338838845388" y="549.1645919488725">
-        8
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,94%);" time="1510" x="291.1164623167941" y="94.63804192231997">
-        7
-      </tspan>
-      <tspan style="font-size: 13px; fill: hsl(0,0%,76%);" time="1946" x="375.263345804868" y="373.4975413799527">
-        6
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,77%);" time="249" x="1811.6189920166037" y="593.9731070154442">
-        8
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,80%);" time="706" x="1422.244917531632" y="439.0802454853772">
-        9
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,87%);" time="1005" x="1818.5864090885088" y="240.52423942267254">
-        1
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,81%);" time="1828" x="499.70136045007354" y="104.05810247227372">
-        3
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,75%);" time="1053" x="238.914100667458" y="487.5663528196972">
-        7
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,77%);" time="1252" x="293.58474683448634" y="158.5784896361404">
-        9
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,86%);" time="934" x="1638.1783572670615" y="186.352351076526">
-        4
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,84%);" time="1543" x="1964.8348985858856" y="159.98322129098113">
-        4
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,89%);" time="1472" x="1067.3066899424227" y="188.68020671150978">
-        1
-      </tspan>
-      <tspan style="font-size: 13px; fill: hsl(0,0%,88%);" time="742" x="1821.5456623476748" y="219.93398631074066">
-        7
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,79%);" time="861" x="867.184654546329" y="307.37561536701685">
-        7
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,87%);" time="917" x="1877.7729547394267" y="18.569403762690428">
-        6
-      </tspan>
-      <tspan style="font-size: 15px; fill: hsl(0,0%,84%);" time="1532" x="1433.7573272633783" y="534.6113725754034">
-        8
-      </tspan>
-      <tspan style="font-size: 15px; fill: hsl(0,0%,75%);" time="1820" x="54.574447034937634" y="313.23074835150646">
-        1
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,82%);" time="1024" x="651.9796235400506" y="515.6935925193515">
-        6
-      </tspan>
-      <tspan style="font-size: 13px; fill: hsl(0,0%,76%);" time="1191" x="1117.0331018450356" y="414.13672089764873">
-        8
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,86%);" time="1839" x="905.7069999030749" y="376.9854225128143">
-        2
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,76%);" time="362" x="580.1937033748517" y="5.6091467799094685">
-        2
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,86%);" time="253" x="1153.5118699741815" y="186.8665284794777">
-        2
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,86%);" time="667" x="1034.5351970022596" y="549.8435118323387">
-        3
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,75%);" time="1957" x="852.9495770027919" y="148.43762196143123">
-        5
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,92%);" time="1478" x="742.5875225581088" y="559.1166699819244">
-        6
-      </tspan>
-      <tspan style="font-size: 12px; fill: hsl(0,0%,78%);" time="1689" x="1873.7367626181874" y="506.5979691394279">
-        5
-      </tspan>
-      <tspan style="font-size: 11px; fill: hsl(0,0%,80%);" time="1489" x="1840.413028611321" y="136.74017397079018">
-        0
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,85%);" time="1031" x="174.96441910718175" y="136.38584177081324">
-        7
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,83%);" time="775" x="628.7532322281008" y="104.85952581378695">
-        2
-      </tspan>
-      <tspan style="font-size: 8px; fill: hsl(0,0%,80%);" time="312" x="1214.188323944921" y="248.1518490006968">
-        8
-      </tspan>
-      <tspan style="font-size: 10px; fill: hsl(0,0%,93%);" time="1682" x="1632.7030236544283" y="111.07823896141839">
-        8
-      </tspan>
-      <tspan style="font-size: 9px; fill: hsl(0,0%,79%);" time="1306" x="1403.753059512621" y="144.21337490948332">
-        1
-      </tspan>
-      <tspan style="font-size: 14px; fill: hsl(0,0%,89%);" time="1237" x="1148.4381776817195" y="209.39255833247333">
-        5
-      </tspan>
-    </text>
-  </g>
-  <g id="GRAPHICS">
-    <!-- ! BG Graphics -->
-    <!-- ! FG Graphics -->
-    <circle cx="1200" cy="220" id="BR" r="30">
-      <animate attributeName="cy" dur="3s" repeatCount="indefinite" values="215;225;215" />
-    </circle>
-    <g id="CHART" transform="translate(1340 252) scale(1,-1)">
-      <rect height="64" width="10" x="0">
-        <animate attributeName="height" dur="3.7s" repeatCount="indefinite" values="59;75;57;47;62;57;49;59" />
-      </rect>
-      <rect height="48" width="10" x="20">
-        <animate attributeName="height" dur="3.3s" repeatCount="indefinite" values="47;36;45;67;54;46;51;47" />
-      </rect>
-      <rect height="64" width="10" x="40">
-        <animate attributeName="height" dur="3.5s" repeatCount="indefinite" values="67;82;72;55;70;62;55;67" />
-      </rect>
-      <rect height="32" width="10" x="60">
-        <animate attributeName="height" dur="3.1s" repeatCount="indefinite" values="38;30;45;23;37;41;35;38" />
-      </rect>
-    </g>
-    <g id="DATA-LINE">
-      <use style="stroke-dasharray: 32 18 7 13; stroke: #F04;" xlink:href="#LINE">
-        <animate attributeName="stroke-dashoffset" dur="3.1" repeatCount="indefinite" values="0;70" />
-      </use>
-      <use style="stroke-dasharray: 28 22 3 17; stroke: #4F0;" xlink:href="#LINE">
-        <animate attributeName="stroke-dashoffset" dur="3.2" repeatCount="indefinite" values="60;-10" />
-      </use>
-      <use style="stroke-dasharray: 30 20 5 15; stroke: #04F;" xlink:href="#LINE">
-        <animate attributeName="stroke-dashoffset" dur="3.3" repeatCount="indefinite" values="-20;50" />
-      </use>
-    </g>
-  </g>
-  <g id="TEXT">
-    <text class="phrase-1" transform="translate(1000 300)">
-      Hi, my name is Diego.
-    </text>
-    <text class="phrase-2" transform="translate(1140 370)">
-      I work with data.
-    </text>
-  </g>
-  <script type="text/javascript">
-    // &lt;![CDATA[
-  const TSPAN = document.querySelectorAll("#BG &gt; text &gt; tspan");
-  TSPAN.forEach(tspan =&gt; {
-    const time = parseInt(tspan.getAttribute("time"));
-    setInterval(() =&gt; {
-      const current = parseInt(tspan.textContent);
-      tspan.textContent = (current + 1) % 10;
-    }, time);
-  });
-// ]]&gt;
-  </script>
+  <title>
+    README Image
+  </title>
+  <use href="#computer_graphics" stroke-dasharray="31 32" style="stroke: hsl(37, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-1.512s" dur="5.001s" repeatCount="indefinite" values="0;-63">
+    </animate>
+  </use>
+  <use href="#computer_graphics" stroke-dasharray="20 36" style="stroke: hsl(335, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-2.050s" dur="5.931s" repeatCount="indefinite" values="0;56">
+    </animate>
+  </use>
+  <use href="#computer_graphics" stroke-dasharray="38 40" style="stroke: hsl(281, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-3.444s" dur="6.566s" repeatCount="indefinite" values="0;-78">
+    </animate>
+  </use>
+  <use href="#computer_graphics" stroke-dasharray="30 48" style="stroke: hsl(252, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-7.012s" dur="7.672s" repeatCount="indefinite" values="0;78">
+    </animate>
+  </use>
+  <use href="#computer_graphics" stroke-dasharray="43 50" style="stroke: hsl(241, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-6.366s" dur="8.892s" repeatCount="indefinite" values="0;-93">
+    </animate>
+  </use>
+  <use href="#digital_image_processing" stroke-dasharray="49 42" style="stroke: hsl(7, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-8.393s" dur="9.382s" repeatCount="indefinite" values="0;91">
+    </animate>
+  </use>
+  <use href="#digital_image_processing" stroke-dasharray="44 33" style="stroke: hsl(264, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-5.136s" dur="5.849s" repeatCount="indefinite" values="0;77">
+    </animate>
+  </use>
+  <use href="#digital_image_processing" stroke-dasharray="27 23" style="stroke: hsl(30, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-5.219s" dur="9.789s" repeatCount="indefinite" values="0;-50">
+    </animate>
+  </use>
+  <use href="#digital_image_processing" stroke-dasharray="37 31" style="stroke: hsl(280, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-3.678s" dur="8.917s" repeatCount="indefinite" values="0;-68">
+    </animate>
+  </use>
+  <use href="#digital_image_processing" stroke-dasharray="38 35" style="stroke: hsl(297, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-2.451s" dur="8.741s" repeatCount="indefinite" values="0;-73">
+    </animate>
+  </use>
+  <use href="#computer_vision" stroke-dasharray="45 28" style="stroke: hsl(282, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-2.802s" dur="9.543s" repeatCount="indefinite" values="0;-73">
+    </animate>
+  </use>
+  <use href="#computer_vision" stroke-dasharray="49 24" style="stroke: hsl(279, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-3.460s" dur="5.097s" repeatCount="indefinite" values="0;73">
+    </animate>
+  </use>
+  <use href="#computer_vision" stroke-dasharray="20 22" style="stroke: hsl(136, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-0.398s" dur="7.458s" repeatCount="indefinite" values="0;-42">
+    </animate>
+  </use>
+  <use href="#computer_vision" stroke-dasharray="27 39" style="stroke: hsl(281, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-5.561s" dur="7.947s" repeatCount="indefinite" values="0;-66">
+    </animate>
+  </use>
+  <use href="#computer_vision" stroke-dasharray="43 43" style="stroke: hsl(216, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-3.509s" dur="8.472s" repeatCount="indefinite" values="0;86">
+    </animate>
+  </use>
+  <use href="#artificial_intelligence" stroke-dasharray="33 26" style="stroke: hsl(253, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-4.517s" dur="5.700s" repeatCount="indefinite" values="0;-59">
+    </animate>
+  </use>
+  <use href="#artificial_intelligence" stroke-dasharray="31 27" style="stroke: hsl(149, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-0.792s" dur="5.687s" repeatCount="indefinite" values="0;58">
+    </animate>
+  </use>
+  <use href="#artificial_intelligence" stroke-dasharray="50 24" style="stroke: hsl(20, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-5.404s" dur="5.827s" repeatCount="indefinite" values="0;74">
+    </animate>
+  </use>
+  <use href="#artificial_intelligence" stroke-dasharray="48 38" style="stroke: hsl(240, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-7.623s" dur="8.630s" repeatCount="indefinite" values="0;-86">
+    </animate>
+  </use>
+  <use href="#artificial_intelligence" stroke-dasharray="27 45" style="stroke: hsl(337, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-1.821s" dur="6.744s" repeatCount="indefinite" values="0;-72">
+    </animate>
+  </use>
+  <use href="#machine_learning" stroke-dasharray="21 50" style="stroke: hsl(140, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-6.518s" dur="9.824s" repeatCount="indefinite" values="0;-71">
+    </animate>
+  </use>
+  <use href="#machine_learning" stroke-dasharray="22 32" style="stroke: hsl(353, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-4.385s" dur="9.747s" repeatCount="indefinite" values="0;-54">
+    </animate>
+  </use>
+  <use href="#machine_learning" stroke-dasharray="29 38" style="stroke: hsl(352, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-5.588s" dur="6.185s" repeatCount="indefinite" values="0;-67">
+    </animate>
+  </use>
+  <use href="#machine_learning" stroke-dasharray="42 35" style="stroke: hsl(176, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-2.641s" dur="8.086s" repeatCount="indefinite" values="0;77">
+    </animate>
+  </use>
+  <use href="#machine_learning" stroke-dasharray="25 33" style="stroke: hsl(278, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-5.622s" dur="7.353s" repeatCount="indefinite" values="0;58">
+    </animate>
+  </use>
+  <use href="#data_analytics" stroke-dasharray="20 43" style="stroke: hsl(10, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-5.049s" dur="9.158s" repeatCount="indefinite" values="0;63">
+    </animate>
+  </use>
+  <use href="#data_analytics" stroke-dasharray="45 39" style="stroke: hsl(96, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-1.673s" dur="8.714s" repeatCount="indefinite" values="0;84">
+    </animate>
+  </use>
+  <use href="#data_analytics" stroke-dasharray="31 26" style="stroke: hsl(116, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-1.573s" dur="7.541s" repeatCount="indefinite" values="0;57">
+    </animate>
+  </use>
+  <use href="#data_analytics" stroke-dasharray="22 27" style="stroke: hsl(137, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-0.134s" dur="5.099s" repeatCount="indefinite" values="0;49">
+    </animate>
+  </use>
+  <use href="#data_analytics" stroke-dasharray="28 33" style="stroke: hsl(21, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-5.011s" dur="9.300s" repeatCount="indefinite" values="0;61">
+    </animate>
+  </use>
+  <use href="#computer_science" stroke-dasharray="43 36" style="stroke: hsl(45, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-3.746s" dur="6.396s" repeatCount="indefinite" values="0;-79">
+    </animate>
+  </use>
+  <use href="#computer_science" stroke-dasharray="34 34" style="stroke: hsl(322, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-4.078s" dur="5.093s" repeatCount="indefinite" values="0;-68">
+    </animate>
+  </use>
+  <use href="#computer_science" stroke-dasharray="22 40" style="stroke: hsl(33, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-6.961s" dur="9.318s" repeatCount="indefinite" values="0;62">
+    </animate>
+  </use>
+  <use href="#computer_science" stroke-dasharray="43 38" style="stroke: hsl(156, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-0.643s" dur="5.300s" repeatCount="indefinite" values="0;81">
+    </animate>
+  </use>
+  <use href="#computer_science" stroke-dasharray="23 20" style="stroke: hsl(109, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-4.370s" dur="6.129s" repeatCount="indefinite" values="0;-43">
+    </animate>
+  </use>
+  <use href="#data_science" stroke-dasharray="20 32" style="stroke: hsl(169, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-5.184s" dur="5.360s" repeatCount="indefinite" values="0;52">
+    </animate>
+  </use>
+  <use href="#data_science" stroke-dasharray="35 50" style="stroke: hsl(44, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-4.658s" dur="6.262s" repeatCount="indefinite" values="0;85">
+    </animate>
+  </use>
+  <use href="#data_science" stroke-dasharray="31 42" style="stroke: hsl(154, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-8.341s" dur="9.850s" repeatCount="indefinite" values="0;73">
+    </animate>
+  </use>
+  <use href="#data_science" stroke-dasharray="22 24" style="stroke: hsl(243, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-8.849s" dur="9.909s" repeatCount="indefinite" values="0;-46">
+    </animate>
+  </use>
+  <use href="#data_science" stroke-dasharray="25 50" style="stroke: hsl(211, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-4.231s" dur="5.198s" repeatCount="indefinite" values="0;-75">
+    </animate>
+  </use>
+  <use href="#mathematics" stroke-dasharray="37 43" style="stroke: hsl(63, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-0.837s" dur="7.659s" repeatCount="indefinite" values="0;-80">
+    </animate>
+  </use>
+  <use href="#mathematics" stroke-dasharray="50 37" style="stroke: hsl(226, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-5.570s" dur="6.078s" repeatCount="indefinite" values="0;-87">
+    </animate>
+  </use>
+  <use href="#mathematics" stroke-dasharray="27 23" style="stroke: hsl(145, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-1.877s" dur="8.821s" repeatCount="indefinite" values="0;50">
+    </animate>
+  </use>
+  <use href="#mathematics" stroke-dasharray="26 45" style="stroke: hsl(205, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-1.388s" dur="5.333s" repeatCount="indefinite" values="0;-71">
+    </animate>
+  </use>
+  <use href="#mathematics" stroke-dasharray="29 42" style="stroke: hsl(300, 70%, 50%)">
+    <animate attributeName="stroke-dashoffset" begin="-4.301s" dur="8.197s" repeatCount="indefinite" values="0;-71">
+    </animate>
+  </use>
 </svg>
