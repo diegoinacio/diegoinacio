@@ -1,12 +1,12 @@
 <img align="right" src="https://github.com/diegoinacio/diegoinacio/blob/master/image.svg" />
 
-## Hi there 👋🏾 welcome to my _GitHub_!
+# Hi there 👋🏾 welcome to my _GitHub_!
 
 - I am a <em>multidisciplinary</em> <strong>computer scientist</strong> with focus on <code><strong>Data Science</strong> and <strong>Analytics</strong></code>;
-- I have strong passion for <ins>Mathematics</ins> and its <em>computational applications</em>;
-- In my projects, I consider my main coding languages being <strong>Python</strong>, <strong>JavaScript</strong> and <strong>SQL</strong>;
-- I like to talk about <em>AI</em>, <em>Machine Learning</em>, <em>Image Processing</em>, <em>Computer Graphics</em> and other things;
-- My <strong>2021</strong> goals: Contribute more to <em>open source projects</em> and produce more <em>educational content</em>.
+- I have strong passion for general <ins>Mathematics</ins> and its <em>computational applications</em>;
+- In my projects, I consider <strong>Python</strong>, <strong>JavaScript</strong> and <strong>SQL</strong> as my main coding languages;
+- I am always trying to strike a good balance between creative, analytical, technical and scientific skills;
+- My <strong>2022</strong> goals: Produce and share more <em>educational content</em>.
 
 <br>
 
