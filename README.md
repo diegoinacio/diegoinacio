@@ -7,7 +7,7 @@
 - In my projects, I consider <strong>Python</strong>, <strong>JavaScript</strong> and <strong>SQL</strong> as my main coding languages;
 - I am always trying to strike a good balance between <em>creative</em>, <em>analytical</em>, <em>technical</em> and <em>scientific</em> skills;
 - Here you will see things related to <em>Mathematics</em>, <em>Data Science</em>, <em>Data Analytics</em>, <em>Artificial Intelligence</em>, <em>Machine|Deep Learning</em>, <em>Computer Vision</em>, <em>Digital Image|Signal Processing</em>, <em>Computer Graphics</em> and much more;
-- My <strong>2022</strong> goals: Consume more content related to sport, health and welfare; Re-dedicate myself to music; Volunteer as much as I can;
+- My <strong>2022</strong> goals: Consume more content on sports, health and welfare; Re-dedicate myself to music; Volunteer as much as I can;
 - My recurring goals: Learn and share knowledge related to <em>science</em>, <em>technology</em> and <em>creative things</em>; Work on my personal development and discipline.
 
 <br>
