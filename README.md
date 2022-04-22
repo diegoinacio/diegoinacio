@@ -34,3 +34,19 @@
 <br>
 
 If you want to know more, consider visiting [my personal website](https://diegoinacio.github.io/).
+
+## Featured Projects
+
+|                                         |                                        |
+| :-------------------------------------: | :------------------------------------: |
+| [![featured project 01][fpi01]][fpl01]  | [![featured project 02][fpi02]][fpl02] |
+| [ ![featured project 03][fpi03]][fpl03] | [![featured project 04][fpi04]][fpl04] |
+
+[fpi01]: featured-project-01.png
+[fpi02]: featured-project-02.png
+[fpi03]: featured-project-03.png
+[fpi04]: featured-project-04.png
+[fpl01]: https://diegoinacio.github.io/python-notebooks/
+[fpl02]: https://github.com/diegoinacio/object-detection-flask-opencv
+[fpl03]: https://github.com/diegoinacio/encrypted-info-app
+[fpl04]: https://diegoinacio.github.io/svg-experiments/
