@@ -50,7 +50,7 @@
       <stop offset="1" stop-color="#8300ff" />
     </linearGradient>
     <symbol id="LINE">
-      <line x1="1270" x2="2000" y1="420" y2="420" />
+      <line x1="1095" x2="2000" y1="420" y2="420" />
     </symbol>
   </defs>
   <g id="BG">
@@ -6748,8 +6748,8 @@
     <text class="phrase-1" transform="translate(890 300)">
       Hi, my name is Diego.
     </text>
-    <text class="phrase-2" transform="translate(995 390)">
-      I work with data + math.
+    <text class="phrase-2" transform="translate(820 390)">
+      I work with math + data + code.
     </text>
   </g>
 </svg>
