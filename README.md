@@ -31,7 +31,7 @@
   <img alt="diegoinacio @ SoundCloud" title="diegoinacio @ SoundCloud" src="https://img.icons8.com/dusk/50/26e07f/soundcloud.png"/>
 </a>
 
-<br><br>
+<br>
 
 If you want to know more, consider visiting [my personal website](https://diegoinacio.github.io/).
 
