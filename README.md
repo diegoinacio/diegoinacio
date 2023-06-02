@@ -8,7 +8,7 @@
 - I am always trying to strike a good balance between <em>creative</em>, <em>analytical</em>, <em>technical</em> and <em>scientific</em> skills;
 - Here you will see <em>Mathematics</em>, <em>Data Science</em>, <em>Data Analytics</em>, <em>Artificial Intelligence</em>, <em>Machine/Deep Learning</em>, <em>Computer Vision</em>, <em>Digital Image/Signal Processing</em>, <em>Computer Graphics</em> and more;
 - <ins>My <strong>2023</strong> goals</ins>: Consume more content on sports, health and welfare; Develop my social intelligence; Volunteer as much as I can;
-- <ins>My recurring goals</ins>: Learn and share more knowledge related to <em>science</em>, <em>technology</em> and <em>creative things</em>; Evolve my personal development and discipline.
+- <ins>My recurring goals</ins>: Learn and share more knowledge related to <em>science</em>, <em>technology</em> and <em>creative</em>; Evolve my personal development and discipline.
 
 <br>
 
@@ -31,7 +31,7 @@
   <img alt="diegoinacio @ SoundCloud" title="diegoinacio @ SoundCloud" src="https://img.icons8.com/dusk/50/26e07f/soundcloud.png"/>
 </a>
 
-<br>
+<br><br>
 
 If you want to know more, consider visiting [my personal website](https://diegoinacio.github.io/).
 
