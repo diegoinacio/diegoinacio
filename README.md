@@ -4,19 +4,19 @@
 
 - I am a <em>multidisciplinary</em> <strong>Computer Scientist</strong> with focus on <code><strong>Data Science</strong> and <strong>Advanced Analytics</strong></code>;
 - I have strong passion for general <ins>Mathematics</ins> and its <em>computational applications</em>;
-- In the projects I get involved in, I consider <strong>Python</strong>, <strong>JavaScript</strong> and <strong>SQL</strong> to be my main coding languages;
+- In the projects I get involved in, I consider <strong>Python</strong>, <strong>SQL</strong> and <strong>JavaScript</strong> as my main coding languages;
 - I am always trying to strike a good balance between <em>creative</em>, <em>analytical</em>, <em>technical</em> and <em>scientific</em> skills;
-- Here I intend to share things related to <em>Mathematics</em>, <em>Data Science</em>, <em>Data Analytics</em>, <em>Artificial Intelligence</em>, <em>Machine|Deep Learning</em>, <em>Computer Vision</em>, <em>Digital Image/Signal Processing</em>, <em>Computer Graphics</em> and more;
-- My <strong>2023</strong> goals: Consume more content on sports, health and welfare; Develop my social intelligence; Volunteer as much as I can;
-- My recurring goals: Learn and share more knowledge related to <em>science</em>, <em>technology</em> and <em>creative things</em>; Evolve my personal development and discipline.
+- Here you will see <em>Mathematics</em>, <em>Data Science</em>, <em>Data Analytics</em>, <em>Artificial Intelligence</em>, <em>Machine/Deep Learning</em>, <em>Computer Vision</em>, <em>Digital Image/Signal Processing</em>, <em>Computer Graphics</em> and more;
+- <ins>My <strong>2023</strong> goals</ins>: Consume more content on sports, health and welfare; Develop my social intelligence; Volunteer as much as I can;
+- <ins>My recurring goals</ins>: Learn and share more knowledge related to <em>science</em>, <em>technology</em> and <em>creative things</em>; Evolve my personal development and discipline.
 
 <br>
 
-<a href="https://github.com/diegoinacio/" target="_blank">
-  <img alt="diegoinacio @ GitHub" title="diegoinacio @ GitHub" src="https://img.icons8.com/dusk/50/26e07f/github.png"/>
-</a>
 <a href="https://www.linkedin.com/in/diegoinacio/" target="_blank">
   <img alt="diegoinacio @ LinkedIn" title="diegoinacio @ LinkedIn" src="https://img.icons8.com/dusk/50/26e07f/linkedin.png"/>
+</a>
+<a href="https://github.com/diegoinacio/" target="_blank">
+  <img alt="diegoinacio @ GitHub" title="diegoinacio @ GitHub" src="https://img.icons8.com/dusk/50/26e07f/github.png"/>
 </a>
 <a href="https://diegoinacio.medium.com/" target="_blank">
   <img alt="diegoinacio @ Medium" title="diegoinacio @ Medium" src="https://img.icons8.com/dusk/50/26e07f/medium-new.png"/>
