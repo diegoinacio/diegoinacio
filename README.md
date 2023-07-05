@@ -9,7 +9,7 @@
   - Develop my social intelligence;
   - Volunteer as much as I can.
 - <ins>My recurring goals</ins>:
-  - Learn and share more knowledge related to <em>science</em>, <em>technology</em> and <em>creative</em>;
+  - Learn and share skills related to <em>science</em>, <em>technology</em> and <em>creative</em>;
   - Evolve my personal development and discipline.
 
 <br>
