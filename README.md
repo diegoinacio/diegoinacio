@@ -2,15 +2,16 @@
 
 # Hey there 👋🏾 welcome to my _GitHub_!
 
-- I am a <em>multidisciplinary</em> <strong>Computer Scientist</strong> with focus on <code><strong>Data Science</strong> and <strong>Advanced Analytics</strong></code>;
+- I am a <em>Brazilian</em> <strong>Computer Scientist</strong> with a focus on <code><strong>Data Science</strong> and <strong>Advanced Analytics</strong></code>;
 - I have strong passion for general <ins>Mathematics</ins> applied to computing for <strong>problem solving</strong>;
 - <ins>My <strong>2023</strong> goals</ins>:
-  - Consume more content on sports, health and welfare;
-  - Develop my social intelligence;
-  - Volunteer as much as I can.
+  - Learn more about sports, health and wellness;
+  - Develop my communication and social skills;
+  - Finish my MBA and start a new study path.
 - <ins>My recurring goals</ins>:
-  - Learn and share skills related to <em>science</em>, <em>technology</em> and <em>creativity</em>;
-  - Evolve my personal development and discipline.
+  - Be kind, empathetic, professional and helpful;
+  - volve my self-development and discipline;
+  - Volunteering and helping people.
 
 <br>
 
@@ -30,19 +31,3 @@
 <br>
 
 If you want to know more, consider visiting [my personal website](https://diegoinacio.github.io/).
-
-## Featured Projects
-
-|                                         |                                        |
-| :-------------------------------------: | :------------------------------------: |
-| [![featured project 01][fpi01]][fpl01]  | [![featured project 02][fpi02]][fpl02] |
-| [ ![featured project 03][fpi03]][fpl03] | [![featured project 04][fpi04]][fpl04] |
-
-[fpi01]: featured-project-01.png
-[fpi02]: featured-project-02.png
-[fpi03]: featured-project-03.png
-[fpi04]: featured-project-04.png
-[fpl01]: https://diegoinacio.github.io/python-notebooks/
-[fpl02]: https://github.com/diegoinacio/object-detection-flask-opencv
-[fpl03]: https://github.com/diegoinacio/encrypted-info-app
-[fpl04]: https://diegoinacio.github.io/svg-experiments/
