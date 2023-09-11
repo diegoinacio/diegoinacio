@@ -10,7 +10,7 @@
   - Finish my MBA and start a new study path.
 - <ins>My recurring goals</ins>:
   - Be kind, empathetic, professional and helpful;
-  - volve my self-development and discipline;
+  - Evolve my self-development and discipline;
   - Volunteering and helping people.
 
 <br>
