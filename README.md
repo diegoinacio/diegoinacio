@@ -27,7 +27,3 @@
 <a href="https://www.youtube.com/user/diegodci/" target="_blank">
   <img alt="diegodci @ YouTube" title="diegodci @ YouTube" src="https://img.icons8.com/dusk/50/26e07f/youtube-play.png"/>
 </a>
-
-<br>
-
-If you want to know more, consider visiting [my personal website](https://diegoinacio.github.io/).
