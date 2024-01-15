@@ -6,7 +6,7 @@
 - I have strong passion for general <ins>Mathematics</ins> applied to computing for <strong>problem solving</strong>;
 - <ins>My <strong>2024</strong> goals</ins>:
   - Learn more about sports and health;
-  - Start a new study path.
+  - Dedicate myself to music again.
 - <ins>My recurring goals</ins>:
   - Be kind, empathetic, professional and helpful;
   - Evolve my self-development and discipline.
