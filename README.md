@@ -19,6 +19,14 @@
 [![Alt][smi04]][sml04]
 [![Alt][smi05]][sml05]
 
+# Feature Projects
+
+[![Alt][fpi01]][fpl01]
+[![Alt][fpi02]][fpl02]
+[![Alt][fpi03]][fpl03]
+[![Alt][fpi04]][fpl04]
+[![Alt][fpi05]][fpl05]
+
 <!-- ! Reference Links -->
 
 <!-- * Social Media -->
@@ -47,3 +55,30 @@
 
 [smi05]: https://img.icons8.com/?size=48&id=42868&format=png "diegodci @ YouTube"
 [sml05]: https://www.youtube.com/user/diegodci/
+
+<!-- * Feature Projects -->
+
+<!-- ? Python Notebooks -->
+
+[fpi01]: featured-projects/python-notebooks.png "Python Notebooks"
+[fpl01]: https://diegoinacio.github.io/python-notebooks/
+
+<!-- ? Object Detection with Flask and OpenCV -->
+
+[fpi02]: featured-projects/object-detection-flask-opencv.png "Object Detection with Flask and OpenCV"
+[fpl02]: https://github.com/diegoinacio/object-detection-flask-opencv/
+
+<!-- ? Encrypted Information Application -->
+
+[fpi03]: featured-projects/encrypted-info-app.png "Encrypted Information Application"
+[fpl03]: https://github.com/diegoinacio/encrypted-info-app
+
+<!-- ? Chrome Extension Lab -->
+
+[fpi04]: featured-projects/chrome-extension-lab.png "Chrome Extension Lab"
+[fpl04]: https://github.com/diegoinacio/chrome-extension-lab
+
+<!-- ? SVG Experiments -->
+
+[fpi05]: featured-projects/svg-experiments.png "SVG Experiments"
+[fpl05]: https://github.com/diegoinacio/chrome-extension-lab
