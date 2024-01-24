@@ -19,13 +19,15 @@
 [![Alt][smi04]][sml04]
 [![Alt][smi05]][sml05]
 
-# Feature Projects
+# Featured Projects
 
 [![Alt][fpi01]][fpl01]
 [![Alt][fpi02]][fpl02]
 [![Alt][fpi03]][fpl03]
 [![Alt][fpi04]][fpl04]
 [![Alt][fpi05]][fpl05]
+[![Alt][fpi06]][fpl06]
+[![Alt][fpi07]][fpl07]
 
 <!-- ! Reference Links -->
 
@@ -56,7 +58,7 @@
 [smi05]: https://img.icons8.com/?size=48&id=42868&format=png "diegodci @ YouTube"
 [sml05]: https://www.youtube.com/user/diegodci/
 
-<!-- * Feature Projects -->
+<!-- * Featured Projects -->
 
 <!-- ? Python Notebooks -->
 
@@ -82,3 +84,13 @@
 
 [fpi05]: featured-projects/svg-experiments.png "SVG Experiments"
 [fpl05]: https://github.com/diegoinacio/chrome-extension-lab
+
+<!-- ? Creative Coding Notebooks -->
+
+[fpi06]: featured-projects/creative-coding-notebooks.png "Creative Coding Notebooks"
+[fpl06]: https://diegoinacio.github.io/creative-coding-notebooks-page/
+
+<!-- ? Multiversal Gallery -->
+
+[fpi07]: featured-projects/multiversal-gallery.png "Multiversal Gallery"
+[fpl07]: https://diegoinacio.github.io/multiversal-gallery/
