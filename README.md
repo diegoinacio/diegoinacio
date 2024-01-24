@@ -13,18 +13,37 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/diegoinacio/" target="_blank">
-  <img alt="diegoinacio @ LinkedIn" title="diegoinacio @ LinkedIn" src="https://img.icons8.com/?size=48&id=42823&format=png"/>
-</a>
-<a href="https://github.com/diegoinacio/" target="_blank">
-  <img alt="diegoinacio @ GitHub" title="diegoinacio @ GitHub" src="https://img.icons8.com/?size=48&id=46565&format=png"/>
-</a>
-<a href="https://www.kaggle.com/diegoinacio" target="_blank">
-  <img alt="diegoinacio @ Kaggle" title="diegoinacio @ Kaggle" src="https://img.icons8.com/?size=48&id=s1rM4KTx2Huf&format=png"/>
-</a>
-<a href="https://diegoinacio.medium.com/" target="_blank">
-  <img alt="diegoinacio @ Medium" title="diegoinacio @ Medium" src="https://img.icons8.com/?size=48&id=83LUie2rl6pk&format=png"/>
-</a>
-<a href="https://www.youtube.com/user/diegodci/" target="_blank">
-  <img alt="diegodci @ YouTube" title="diegodci @ YouTube" src="https://img.icons8.com/?size=48&id=42868&format=png"/>
-</a>
+[![Alt][smi01]][sml01]
+[![Alt][smi02]][sml02]
+[![Alt][smi03]][sml03]
+[![Alt][smi04]][sml04]
+[![Alt][smi05]][sml05]
+
+<!-- ! Reference Links -->
+
+<!-- * Social Media -->
+
+<!-- ? LinkedIn -->
+
+[smi01]: https://img.icons8.com/?size=48&id=42823&format=png "diegoinacio @ LinkedIn"
+[sml01]: https://www.linkedin.com/in/diegoinacio/
+
+<!-- ? Github -->
+
+[smi02]: https://img.icons8.com/?size=48&id=46565&format=png "diegoinacio @ GitHub"
+[sml02]: https://github.com/diegoinacio/
+
+<!-- ? Kaggle -->
+
+[smi03]: https://img.icons8.com/?size=48&id=s1rM4KTx2Huf&format=png "diegoinacio @ Kaggle"
+[sml03]: https://www.kaggle.com/
+
+<!-- ? Medium  -->
+
+[smi04]: https://img.icons8.com/?size=48&id=83LUie2rl6pk&format=png "diegoinacio @ Medium"
+[sml04]: https://diegoinacio.medium.com/
+
+<!-- ? YouTub  -->
+
+[smi05]: https://img.icons8.com/?size=48&id=42868&format=png "diegodci @ YouTube"
+[sml05]: https://www.youtube.com/user/diegodci/
