@@ -83,7 +83,7 @@
 <!-- ? SVG Experiments -->
 
 [fpi05]: featured-projects/svg-experiments.png "SVG Experiments"
-[fpl05]: https://github.com/diegoinacio/chrome-extension-lab
+[fpl05]: https://diegoinacio.github.io/svg-experiments/
 
 <!-- ? Creative Coding Notebooks -->
 
