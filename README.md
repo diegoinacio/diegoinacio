@@ -46,7 +46,7 @@
 <!-- ? Kaggle -->
 
 [smi03]: https://img.icons8.com/?size=48&id=s1rM4KTx2Huf&format=png "diegoinacio @ Kaggle"
-[sml03]: https://www.kaggle.com/
+[sml03]: https://www.kaggle.com/diegoinacio
 
 <!-- ? Medium  -->
 
