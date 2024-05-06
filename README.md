@@ -63,7 +63,7 @@
 <!-- ? Python Notebooks -->
 
 [fpi01]: featured-projects/python-notebooks-for-ai.png "Python Notebooks for AI"
-[fpl01]: https://diegoinacio.github.io/python-notebooks/
+[fpl01]: https://diegoinacio.github.io/python-notebooks-for-ai/
 
 <!-- ? Object Detection with Flask and OpenCV -->
 
