@@ -28,6 +28,7 @@
 [![Alt][fpi05]][fpl05]
 [![Alt][fpi06]][fpl06]
 [![Alt][fpi07]][fpl07]
+[![Alt][fpi08]][fpl08]
 
 <!-- ! Reference Links -->
 
@@ -60,37 +61,42 @@
 
 <!-- * Featured Projects -->
 
-<!-- ? Python Notebooks -->
+<!-- ? MCDM Methods -->
 
-[fpi01]: featured-projects/python-notebooks-for-ai.png "Python Notebooks for AI"
-[fpl01]: https://diegoinacio.github.io/python-notebooks-for-ai/
+[fpi01]: featured-projects/mcdm-methods.png "Multi-criteria Decision-making Methods"
+[fpl01]: https://github.com/diegoinacio/mcdm-methods/
+
+<!-- ? Python Notebooks for AI -->
+
+[fpi02]: featured-projects/python-notebooks-for-ai.png "Python Notebooks for AI"
+[fpl02]: https://diegoinacio.github.io/python-notebooks-for-ai/
 
 <!-- ? Object Detection with Flask and OpenCV -->
 
-[fpi02]: featured-projects/object-detection-flask-opencv.png "Object Detection with Flask and OpenCV"
-[fpl02]: https://github.com/diegoinacio/object-detection-flask-opencv/
+[fpi03]: featured-projects/object-detection-flask-opencv.png "Object Detection with Flask and OpenCV"
+[fpl03]: https://github.com/diegoinacio/object-detection-flask-opencv/
 
 <!-- ? Encrypted Information Application -->
 
-[fpi03]: featured-projects/encrypted-info-app.png "Encrypted Information Application"
-[fpl03]: https://github.com/diegoinacio/encrypted-info-app
+[fpi04]: featured-projects/encrypted-info-app.png "Encrypted Information Application"
+[fpl04]: https://github.com/diegoinacio/encrypted-info-app
 
 <!-- ? Chrome Extension Lab -->
 
-[fpi04]: featured-projects/chrome-extension-lab.png "Chrome Extension Lab"
-[fpl04]: https://github.com/diegoinacio/chrome-extension-lab
+[fpi05]: featured-projects/chrome-extension-lab.png "Chrome Extension Lab"
+[fpl05]: https://github.com/diegoinacio/chrome-extension-lab
 
 <!-- ? SVG Experiments -->
 
-[fpi05]: featured-projects/svg-experiments.png "SVG Experiments"
-[fpl05]: https://diegoinacio.github.io/svg-experiments/
+[fpi06]: featured-projects/svg-experiments.png "SVG Experiments"
+[fpl06]: https://diegoinacio.github.io/svg-experiments/
 
 <!-- ? Creative Coding Notebooks -->
 
-[fpi06]: featured-projects/creative-coding-notebooks.png "Creative Coding Notebooks"
-[fpl06]: https://diegoinacio.github.io/creative-coding-notebooks-page/
+[fpi07]: featured-projects/creative-coding-notebooks.png "Creative Coding Notebooks"
+[fpl07]: https://diegoinacio.github.io/creative-coding-notebooks-page/
 
 <!-- ? Multiversal Gallery -->
 
-[fpi07]: featured-projects/multiversal-gallery.png "Multiversal Gallery"
-[fpl07]: https://diegoinacio.github.io/multiversal-gallery/
+[fpi08]: featured-projects/multiversal-gallery.png "Multiversal Gallery"
+[fpl08]: https://diegoinacio.github.io/multiversal-gallery/
