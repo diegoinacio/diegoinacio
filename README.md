@@ -29,6 +29,7 @@
 [![Alt][fpi06]][fpl06]
 [![Alt][fpi07]][fpl07]
 [![Alt][fpi08]][fpl08]
+[![Alt][fpi09]][fpl09]
 
 <!-- ! Reference Links -->
 
@@ -61,42 +62,47 @@
 
 <!-- * Featured Projects -->
 
-<!-- ? MCDM Methods -->
-
-[fpi01]: featured-projects/mcdm-methods.png "Multi-criteria Decision-making Methods"
-[fpl01]: https://github.com/diegoinacio/mcdm-methods/
-
 <!-- ? Python Notebooks for AI -->
 
-[fpi02]: featured-projects/python-notebooks-for-ai.png "Python Notebooks for AI"
-[fpl02]: https://diegoinacio.github.io/python-notebooks-for-ai/
+[fpi01]: featured-projects/python-notebooks-for-ai.png "Python Notebooks for AI"
+[fpl01]: https://diegoinacio.github.io/python-notebooks-for-ai/
+
+<!-- ? MCDM Methods -->
+
+[fpi02]: featured-projects/mcdm-methods.png "Multi-criteria Decision-making Methods"
+[fpl02]: https://github.com/diegoinacio/mcdm-methods/
+
+<!-- ? Computer Vision Notebooks -->
+
+[fpi03]: featured-projects/computer-vision-notebooks.png "Computer Vision Notebooks"
+[fpl03]: https://diegoinacio.github.io/computer-vision-notebooks-page/
+
+<!-- ? Machine Learning Notebooks -->
+
+[fpi04]: featured-projects/machine-learning-notebooks.png "Machine Learning Notebooks"
+[fpl04]: https://diegoinacio.github.io/machine-learning-notebooks-page/
 
 <!-- ? Object Detection with Flask and OpenCV -->
 
-[fpi03]: featured-projects/object-detection-flask-opencv.png "Object Detection with Flask and OpenCV"
-[fpl03]: https://github.com/diegoinacio/object-detection-flask-opencv/
+[fpi05]: featured-projects/object-detection-flask-opencv.png "Object Detection with Flask and OpenCV"
+[fpl05]: https://github.com/diegoinacio/object-detection-flask-opencv/
 
 <!-- ? Encrypted Information Application -->
 
-[fpi04]: featured-projects/encrypted-info-app.png "Encrypted Information Application"
-[fpl04]: https://github.com/diegoinacio/encrypted-info-app
-
-<!-- ? Chrome Extension Lab -->
-
-[fpi05]: featured-projects/chrome-extension-lab.png "Chrome Extension Lab"
-[fpl05]: https://github.com/diegoinacio/chrome-extension-lab
-
-<!-- ? SVG Experiments -->
-
-[fpi06]: featured-projects/svg-experiments.png "SVG Experiments"
-[fpl06]: https://diegoinacio.github.io/svg-experiments/
+[fpi06]: featured-projects/encrypted-info-app.png "Encrypted Information Application"
+[fpl06]: https://github.com/diegoinacio/encrypted-info-app
 
 <!-- ? Creative Coding Notebooks -->
 
 [fpi07]: featured-projects/creative-coding-notebooks.png "Creative Coding Notebooks"
 [fpl07]: https://diegoinacio.github.io/creative-coding-notebooks-page/
 
+<!-- ? SVG Experiments -->
+
+[fpi08]: featured-projects/svg-experiments.png "SVG Experiments"
+[fpl08]: https://diegoinacio.github.io/svg-experiments/
+
 <!-- ? Multiversal Gallery -->
 
-[fpi08]: featured-projects/multiversal-gallery.png "Multiversal Gallery"
-[fpl08]: https://diegoinacio.github.io/multiversal-gallery/
+[fpi09]: featured-projects/multiversal-gallery.png "Multiversal Gallery"
+[fpl09]: https://diegoinacio.github.io/multiversal-gallery/
