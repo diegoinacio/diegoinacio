@@ -2,13 +2,13 @@
 
 # Hey there 👋🏾 welcome to my _GitHub_!
 
-- I am a <em>Brazilian</em> <strong>Computer Scientist</strong> with a focus on <code><strong>Data Science</strong> and <strong>Advanced Analytics</strong></code>;
-- I have strong passion for general <ins>Mathematics</ins> applied to computing for <strong>problem solving</strong>;
-- <ins>My <strong>2024</strong> goals</ins>:
-  - Learn more about sports and health;
-  - Dedicate myself to music again.
+- I am a <em>Brazilian</em> <strong>Computer Scientist</strong> who loves making sense of data through <code><strong>Data Science</strong> and <strong>Advanced Analytics</strong></code>;
+- I get excited about using <ins>Mathematics</ins> and <code>computing</code> to <strong>solve real-world problems</strong>;
+- <ins>My <strong>2025</strong> goals</ins>:
+  - Keep building creatively.
+  - Learn more about sports and health.
 - <ins>My recurring goals</ins>:
-  - Be kind, empathetic, professional and helpful;
+  - Be kind, empathetic, professional, and helpful.
   - Evolve my self-development and discipline.
 
 <br>
