@@ -1,6 +1,6 @@
 ![image.svg](image.svg)
 
-# Hey there 👋🏾 welcome to my _GitHub_!
+## Hey there 👋🏽 welcome to my _GitHub_!
 
 - I am a <em>Brazilian</em> <strong>Computer Scientist</strong> who loves making sense of data through <code><strong>Data Science</strong> and <strong>Advanced Analytics</strong></code>;
 - I get excited about using <ins>Mathematics</ins> and <code>computing</code> to <strong>solve real-world problems</strong>;
@@ -17,23 +17,8 @@
 [![Alt][smi02]][sml02]
 [![Alt][smi03]][sml03]
 [![Alt][smi04]][sml04]
-[![Alt][smi05]][sml05]
 
-# Featured Projects
-
-[![Alt][fpi01]][fpl01]
-[![Alt][fpi02]][fpl02]
-[![Alt][fpi03]][fpl03]
-[![Alt][fpi04]][fpl04]
-[![Alt][fpi05]][fpl05]
-[![Alt][fpi06]][fpl06]
-[![Alt][fpi07]][fpl07]
-[![Alt][fpi08]][fpl08]
-[![Alt][fpi09]][fpl09]
-
-<!-- ! Reference Links -->
-
-<!-- * Social Media -->
+<!-- ! Social media reference links -->
 
 <!-- ? LinkedIn -->
 
@@ -45,64 +30,40 @@
 [smi02]: https://img.icons8.com/?size=48&id=46565&format=png "diegoinacio @ GitHub"
 [sml02]: https://github.com/diegoinacio/
 
-<!-- ? Kaggle -->
-
-[smi03]: https://img.icons8.com/?size=48&id=s1rM4KTx2Huf&format=png "diegoinacio @ Kaggle"
-[sml03]: https://www.kaggle.com/diegoinacio
-
 <!-- ? Medium  -->
 
-[smi04]: https://img.icons8.com/?size=48&id=83LUie2rl6pk&format=png "diegoinacio @ Medium"
-[sml04]: https://diegoinacio.medium.com/
+[smi03]: https://img.icons8.com/?size=48&id=83LUie2rl6pk&format=png "diegoinacio @ Medium"
+[sml03]: https://diegoinacio.medium.com/
 
 <!-- ? YouTub  -->
 
-[smi05]: https://img.icons8.com/?size=48&id=42868&format=png "diegodci @ YouTube"
-[sml05]: https://www.youtube.com/user/diegodci/
+[smi04]: https://img.icons8.com/?size=48&id=42868&format=png "diegodci @ YouTube"
+[sml04]: https://www.youtube.com/user/diegodci/
 
-<!-- * Featured Projects -->
+## Top 10 🏅 Featured Projects
 
-<!-- ? Python Notebooks for AI -->
+|                                            Name | Description                                                                                                |
+| ----------------------------------------------: | ---------------------------------------------------------------------------------------------------------- |
+|                [Python Notebooks for AI][fpl01] | 📚 A curated and continuously updated collection of **cookbooks** on diverse **AI-related topics**.        |
+| [Multi-criteria Decision-making Methods][fpl02] | ✨ Python implementations of advanced methods for **multi-criteria decision making** (MCDM).               |
+|              [Computer Vision Notebooks][fpl03] | 👁️ An authorial set of fundamental Python recipes on **Computer Vision** and **Digital Image Processing**. |
+|             [Machine Learning Notebooks][fpl04] | 🤖 An authorial set of fundamental python recipes on **Machine Learning** and **Artificial Intelligence**. |
+|               [Object Detection web app][fpl05] | 👁️ A lightweight web app for real-time object detection via webcam, using **Flask and OpenCV**.            |
+|      [Encrypted Information Application][fpl06] | 🔑 Web application for securely storing and retrieving encrypted personal information.                     |
+|              [Creative Coding Notebooks][fpl07] | 🎨 An authorial set of fundamental Python recipes on **Creative Coding** and **Computer Art**.             |
+|                        [SVG Experiments][fpl08] | ✒️ A gallery of experiments with Scalable Vector Graphics (SVG) and interactive visualizations.            |
+|                    [Multiversal Gallery][fpl09] | 🌌 My personal gallery of creative and scientific illustrations.                                           |
+|                 [Data Science Notebooks][fpl10] | ✨ An authorial set of fundamental python recipes on **Data Science** and **Analytics**.                   |
 
-[fpi01]: featured-projects/python-notebooks-for-ai.png "Python Notebooks for AI"
+<!-- ! Feature projects reference links -->
+
 [fpl01]: https://diegoinacio.github.io/python-notebooks-for-ai/
-
-<!-- ? MCDM Methods -->
-
-[fpi02]: featured-projects/mcdm-methods.png "Multi-criteria Decision-making Methods"
 [fpl02]: https://github.com/diegoinacio/mcdm-methods/
-
-<!-- ? Computer Vision Notebooks -->
-
-[fpi03]: featured-projects/computer-vision-notebooks.png "Computer Vision Notebooks"
-[fpl03]: https://diegoinacio.github.io/computer-vision-notebooks-page/
-
-<!-- ? Machine Learning Notebooks -->
-
-[fpi04]: featured-projects/machine-learning-notebooks.png "Machine Learning Notebooks"
-[fpl04]: https://diegoinacio.github.io/machine-learning-notebooks-page/
-
-<!-- ? Object Detection with Flask and OpenCV -->
-
-[fpi05]: featured-projects/object-detection-flask-opencv.png "Object Detection with Flask and OpenCV"
+[fpl03]: https://github.com/diegoinacio/computer-vision-notebooks
+[fpl04]: https://github.com/diegoinacio/machine-learning-notebooks
 [fpl05]: https://github.com/diegoinacio/object-detection-flask-opencv/
-
-<!-- ? Encrypted Information Application -->
-
-[fpi06]: featured-projects/encrypted-info-app.png "Encrypted Information Application"
 [fpl06]: https://github.com/diegoinacio/encrypted-info-app
-
-<!-- ? Creative Coding Notebooks -->
-
-[fpi07]: featured-projects/creative-coding-notebooks.png "Creative Coding Notebooks"
 [fpl07]: https://diegoinacio.github.io/creative-coding-notebooks-page/
-
-<!-- ? SVG Experiments -->
-
-[fpi08]: featured-projects/svg-experiments.png "SVG Experiments"
 [fpl08]: https://diegoinacio.github.io/svg-experiments/
-
-<!-- ? Multiversal Gallery -->
-
-[fpi09]: featured-projects/multiversal-gallery.png "Multiversal Gallery"
 [fpl09]: https://diegoinacio.github.io/multiversal-gallery/
+[fpl10]: https://github.com/diegoinacio/data-science-notebooks
