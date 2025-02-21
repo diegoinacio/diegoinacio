@@ -42,8 +42,8 @@
 
 ## Top 10 🏅 Featured Projects
 
-|                                            Name | Description                                                                                                |
-| ----------------------------------------------: | ---------------------------------------------------------------------------------------------------------- |
+|                                         Project | Description                                                                                                |
+| ----------------------------------------------: | :--------------------------------------------------------------------------------------------------------- |
 |                [Python Notebooks for AI][fpl01] | 📚 A curated and continuously updated collection of **cookbooks** on diverse **AI-related topics**.        |
 | [Multi-criteria Decision-making Methods][fpl02] | ✨ Python implementations of advanced methods for **multi-criteria decision making** (MCDM).               |
 |              [Computer Vision Notebooks][fpl03] | 👁️ An authorial set of fundamental Python recipes on **Computer Vision** and **Digital Image Processing**. |
