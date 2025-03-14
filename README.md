@@ -17,6 +17,7 @@
 [![Alt][smi02]][sml02]
 [![Alt][smi03]][sml03]
 [![Alt][smi04]][sml04]
+[![Alt][smi05]][sml05]
 
 <!-- ! Social media reference links -->
 
@@ -35,10 +36,15 @@
 [smi03]: https://img.icons8.com/?size=48&id=83LUie2rl6pk&format=png "diegoinacio @ Medium"
 [sml03]: https://diegoinacio.medium.com/
 
-<!-- ? YouTub  -->
+<!-- ? YouTube  -->
 
 [smi04]: https://img.icons8.com/?size=48&id=42868&format=png "diegodci @ YouTube"
 [sml04]: https://www.youtube.com/user/diegodci/
+
+<!-- ? Pinterest  -->
+
+[smi05]: https://img.icons8.com/?size=48&id=43180&format=png "diegodci @ Pinterest"
+[sml05]: https://pinterest.com/diegodci/
 
 ## Top 10 🏅 Featured Projects
 
