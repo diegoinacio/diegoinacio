@@ -48,18 +48,18 @@
 
 ## Top 10 🏅 Featured Projects
 
-|                                         Project | Description                                                                                             |             |
-| ----------------------------------------------: | :------------------------------------------------------------------------------------------------------ | :---------: |
-|                [Python Notebooks for AI][fpl01] | A curated and continuously updated collection of **cookbooks** on diverse **AI-related topics**.        | 📚 🐍 🧠 🦾 |
-| [Multi-criteria Decision-making Methods][fpl02] | Python implementations of advanced methods for **multi-criteria decision making** (MCDM).               | ⚖️ 📊 🔢 🧠 |
-|              [Computer Vision Notebooks][fpl03] | An authorial set of fundamental Python recipes on **Computer Vision** and **Digital Image Processing**. | 👁️ 🐍 📷 🔬 |
-|             [Machine Learning Notebooks][fpl04] | An authorial set of fundamental python recipes on **Machine Learning** and **Artificial Intelligence**. | 🤖 🐍 📊 🧠 |
-|               [Object Detection web app][fpl05] | A lightweight web app for real-time object detection via webcam, using **Flask and OpenCV**.            | 👁️ 🔍 🎥 🚀 |
-|      [Encrypted Information Application][fpl06] | Web application for securely storing and retrieving encrypted personal information.                     | 🔑 🔒 📂 🛡️ |
-|              [Creative Coding Notebooks][fpl07] | An authorial set of fundamental Python recipes on **Creative Coding** and **Computer Art**.             | 🎨 🐍 💻 ✨ |
-|                        [SVG Experiments][fpl08] | A gallery of experiments with Scalable Vector Graphics (SVG) and interactive visualizations.            | ✒️ 🔄 🎨 🎛️ |
-|                    [Multiversal Gallery][fpl09] | My personal gallery of creative and scientific illustrations.                                           | 🌌 🔭 🎨 🎭 |
-|                 [Data Science Notebooks][fpl10] | An authorial set of fundamental python recipes on **Data Science** and **Analytics**.                   | ✨ 🐍 📊 📉 |
+|                                         Project | Description                                                                                             |          |
+| ----------------------------------------------: | :------------------------------------------------------------------------------------------------------ | :------: |
+|                [Python Notebooks for AI][fpl01] | A curated and continuously updated collection of **cookbooks** on diverse **AI-related topics**.        | 📚 🧠 🦾 |
+| [Multi-criteria Decision-making Methods][fpl02] | Python implementations of advanced methods for **multi-criteria decision making** (MCDM).               | ⚖️ 🔢 🧠 |
+|              [Computer Vision Notebooks][fpl03] | An authorial set of fundamental Python recipes on **Computer Vision** and **Digital Image Processing**. | 👁️ 📷 🔬 |
+|             [Machine Learning Notebooks][fpl04] | An authorial set of fundamental python recipes on **Machine Learning** and **Artificial Intelligence**. | 🤖 📊 🧠 |
+|               [Object Detection web app][fpl05] | A lightweight web app for real-time object detection via webcam, using **Flask and OpenCV**.            | 👁️ 🔍 🎥 |
+|      [Encrypted Information Application][fpl06] | Web application for securely storing and retrieving encrypted personal information.                     | 🔑 🔒 📂 |
+|              [Creative Coding Notebooks][fpl07] | An authorial set of fundamental Python recipes on **Creative Coding** and **Computer Art**.             | 🎨 💻 ✨ |
+|                        [SVG Experiments][fpl08] | A gallery of experiments with Scalable Vector Graphics (SVG) and interactive visualizations.            | ✒️ 🔄 🎨 |
+|                    [Multiversal Gallery][fpl09] | My personal gallery of creative and scientific illustrations.                                           | 🌌 🎨 🎭 |
+|                 [Data Science Notebooks][fpl10] | An authorial set of fundamental python recipes on **Data Science** and **Analytics**.                   | ✨ 📊 📉 |
 
 <!-- ! Feature projects reference links -->
 
