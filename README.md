@@ -3,11 +3,12 @@
 ## Hey there 👋🏽 welcome to my _GitHub_!
 
 - I am a <em>Brazilian</em> <strong>Computer Scientist</strong> who loves making sense of data through <code><strong>Data Science</strong> and <strong>Analytics</strong></code>;
-- I am really thrilled about using <ins>Mathematics</ins> and <code>Computing</code> to <strong>solve real-world <ins>business problems</ins></strong>;
-- <ins>My <strong>2026</strong> goals</ins>:
+- I am really thrilled about using <ins>Mathematics and Computing</ins> to <strong>solve real-world <ins>business problems</ins></strong>;
+- 📌 <ins>My <strong>2026</strong> goals</ins>:
   - Dedicate myself more to music and creative activities.
-  - Deepen my knowledge in Advanced Statistics.
-- <ins>My recurring goals</ins>:
+  - Deepen my knowledge in **Advanced Statistics**, specially in <code>**Causal** and **Bayesian** Inference</code>.
+  - Develop my skills in <ins>**Management Science** and **Decision Making**</ins> under uncertainty.
+- ♻️ <ins>My recurring goals</ins>:
   - Evolve my self-development and discipline.
   - Be kind, empathetic, professional, and helpful.
 
@@ -46,7 +47,7 @@
 [smi05]: https://img.icons8.com/?size=48&id=43180&format=png "diegodci @ Pinterest"
 [sml05]: https://pinterest.com/diegodci/
 
-## Top 10 🏅 Featured Projects
+## Top 🏅 Featured Projects
 
 |                                         Project | Description                                                                                             |          |
 | ----------------------------------------------: | :------------------------------------------------------------------------------------------------------ | :------: |
@@ -56,10 +57,14 @@
 |             [Machine Learning Notebooks][fpl04] | An authorial set of fundamental python recipes on **Machine Learning** and **Artificial Intelligence**. | 🤖 📊 🧠 |
 |               [Object Detection web app][fpl05] | A lightweight web app for real-time object detection via webcam, using **Flask and OpenCV**.            | 👁️ 🔍 🎥 |
 |      [Encrypted Information Application][fpl06] | Web application for securely storing and retrieving encrypted personal information.                     | 🔑 🔒 📂 |
-|              [Creative Coding Notebooks][fpl07] | An authorial set of fundamental Python recipes on **Creative Coding** and **Computer Art**.             | 🎨 💻 ✨ |
-|                        [SVG Experiments][fpl08] | A gallery of experiments with Scalable Vector Graphics (SVG) and interactive visualizations.            | ✒️ 🔄 🎨 |
-|                    [Multiversal Gallery][fpl09] | My personal gallery of creative and scientific illustrations.                                           | 🌌 🎨 🎭 |
-|                 [Data Science Notebooks][fpl10] | An authorial set of fundamental python recipes on **Data Science** and **Analytics**.                   | ✨ 📊 📉 |
+
+## Top 🏳️‍🌈 Creative Projects
+
+|                            Project | Description                                                                                  |          |
+| ---------------------------------: | :------------------------------------------------------------------------------------------- | :------: |
+| [Creative Coding Notebooks][fpl07] | An authorial set of fundamental Python recipes on **Creative Coding** and **Computer Art**.  | 🎨 💻 ✨ |
+|           [SVG Experiments][fpl08] | A gallery of experiments with Scalable Vector Graphics (SVG) and interactive visualizations. | ✒️ 🔄 🎨 |
+|       [Multiversal Gallery][fpl09] | My personal gallery of creative and scientific illustrations.                                | 🌌 🎨 🎭 |
 
 <!-- ! Feature projects reference links -->
 
@@ -72,4 +77,3 @@
 [fpl07]: https://diegoinacio.github.io/creative-coding-notebooks-page/
 [fpl08]: https://diegoinacio.github.io/svg-experiments/
 [fpl09]: https://diegoinacio.github.io/multiversal-gallery/
-[fpl10]: https://github.com/diegoinacio/data-science-notebooks
